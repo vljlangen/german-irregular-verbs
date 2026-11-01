@@ -1,0 +1,101 @@
+﻿rank,source_rank,infinitive,suomi,ich,du,er,wir,ihr,sie
+1,1001,sein,olla,war,warst,war,waren,wart,waren
+2,1,werden,tulla joksikin; muuttua,wurde,wurdest,wurde,wurden,wurdet,wurden
+3,2,haben,omistaa; olla jonkun hallussa,hatte,hattest,hatte,hatten,hattet,hatten
+4,3,können,kyetä,konnte,konntest,konnte,konnten,konntet,konnten
+5,5,sollen,pitää; olla määrä tehdä,sollte,solltest,sollte,sollten,solltet,sollten
+6,4,geben,antaa,gab,gabst,gab,gaben,gabt,gaben
+7,6,müssen,täytyä; olla pakko,musste,musstest,musste,mussten,musstet,mussten
+8,7,kommen,tulla,kam,kamst,kam,kamen,kamt,kamen
+9,8,gehen,mennä; kulkea jalan,ging,gingst,ging,gingen,gingt,gingen
+10,9,wollen,haluta; tahtoa,wollte,wolltest,wollte,wollten,wolltet,wollten
+11,10,stehen,seisoa,stand,standst,stand,standen,standet,standen
+12,11,sehen,nähdä,sah,sahst,sah,sahen,sahen,sahen
+13,12,bleiben,pysyä; jäädä,blieb,bliebst,blieb,blieben,bliebt,blieben
+14,13,lassen,sallia; antaa tehdä,ließ,ließest,ließ,ließen,ließet,ließen
+15,14,finden,löytää,fand,fandst,fand,fanden,fandt,fanden
+16,15,liegen,maata; sijaita,lag,lagst,lag,lagen,lagt,lagen
+17,16,bringen,tuoda,brachte,brachtest,brachte,brachten,brachtet,brachten
+18,17,nehmen,ottaa,nahm,nahmst,nahm,nahmen,nahmt,nahmen
+19,20,halten,pitää; pidellä,hielt,hieltest,hielt,hielten,hieltet,hielten
+20,18,sprechen,puhua,sprach,sprachst,sprach,sprachen,spracht,sprachen
+21,21,heißen,olla nimeltään,hieß,hießest,hieß,hießen,hießet,hießen
+22,22,gelten,olla voimassa,,,galt,,,galten
+23,25,dürfen,olla lupa; saada tehdä,durfte,durftest,durfte,durften,durftet,durften
+24,19,treffen,tavata; kohdata,traf,trafst,traf,trafen,traft,trafen
+25,26,bieten,tarjota,bot,botst,bot,boten,botet,boten
+26,24,wissen,tietää,wusste,wusstest,wusste,wussten,wusstet,wussten
+27,1004,erhalten,saada; säilyttää,erhielt,erhieltst,erhielt,erhielten,erhieltet,erhielten
+28,1008,bekommen,saada,bekam,bekamst,bekam,bekamen,bekamt,bekamen
+29,28,ziehen,vetää,zog,zogst,zog,zogen,zogt,zogen
+30,30,laufen,juosta,lief,liefst,lief,liefen,lieft,liefen
+31,23,tun,tehdä,tat,tatst,tat,taten,tatet,taten
+32,33,fallen,pudota; kaatua,fiel,fielst,fiel,fielen,fielt,fielen
+33,27,schreiben,kirjoittaa,schrieb,schriebst,schrieb,schrieben,schriebt,schrieben
+34,34,beginnen,alkaa,begann,begannst,begann,begannen,begannt,begannen
+35,37,steigen,nousta; kohota,stieg,stiegst,stieg,stiegen,stiegt,stiegen
+36,31,fahren,matkustaa; kulkea ajoneuvolla,fuhr,fuhrst,fuhr,fuhren,fuhrt,fuhren
+37,35,verlieren,menettää; kadottaa,verlor,verlorst,verlor,verloren,verlort,verloren
+38,36,gewinnen,voittaa; saada voitoksi,gewann,gewannst,gewann,gewannen,gewannt,gewannen
+39,1005,entscheiden,ratkaista; päättää,entschied,entschiedest,entschied,entschieden,entschiedet,entschieden
+40,38,helfen,auttaa,half,halfst,half,halfen,halft,halfen
+41,1011,entstehen,syntyä; muodostua,,,entstand,,,entstanden
+42,41,tragen,"kantaa, pitää yllään, sietää",trug,trugst,trug,trugen,trugt,trugen
+43,44,denken,ajatella,dachte,dachtest,dachte,dachten,dachtet,dachten
+44,42,nennen,nimetä; kutsua nimellä,nannte,nanntest,nannte,nannten,nanntet,nannten
+45,43,scheinen,näyttää joltakin; loistaa,schien,schienst,schien,schienen,schient,schienen
+46,1003,bestehen,olla olemassa; läpäistä,bestand,bestandest,bestand,bestanden,bestandet,bestanden
+47,47,gelingen,onnistua,,,gelang,,,gelangen
+48,40,schließen,sulkea,schloss,schlossest,schloss,schlossen,schlosst,schlossen
+49,45,treten,astua,trat,tratst,trat,traten,tratet,traten
+50,49,kennen,tuntea; olla tuttu,kannte,kanntest,kannte,kannten,kanntet,kannten
+51,48,schlagen,lyödä,schlug,schlugst,schlug,schlugen,schlugt,schlugen
+52,1009,verlassen,jättää; poistua,verließ,verließest,verließ,verließen,verließet,verließen
+53,51,bitten,pyytää,bat,batst,bat,baten,batet,baten
+54,53,sitzen,istua,saß,saßt,saß,saßen,saßt,saßen
+55,50,werfen,heittää,warf,warfst,warf,warfen,warft,warfen
+56,52,sterben,kuolla,starb,starbst,starb,starben,starbt,starben
+57,1014,geraten,joutua,geriet,gerietst,geriet,gerieten,gerietet,gerieten
+58,1002,verstehen,ymmärtää,verstand,verstandest,verstand,verstanden,verstandet,verstanden
+59,58,rufen,kutsua paikalle,rief,riefst,rief,riefen,rieft,riefen
+60,59,wachsen,kasvaa,wuchs,wuchsest,wuchs,wuchsen,wuchst,wuchsen
+61,56,greifen,tarttua,griff,griffst,griff,griffen,grifft,griffen
+62,61,raten,neuvoa; arvata,riet,rietest,riet,rieten,rietet,rieten
+63,55,laden,"ladata, kuormata",lud,ludst,lud,luden,ludet,luden
+64,1010,erfahren,saada tietää; kokea,erfuhr,erfuhrst,erfuhr,erfuhren,erfuhrt,erfuhren
+65,57,lesen,lukea,las,last,las,lasen,last,lasen
+66,1007,anbieten,tarjota,bot an,botst an,bot an,boten an,botet an,boten an
+67,65,sinken,painua alaspäin,sank,sankst,sank,sanken,sankt,sanken
+68,66,hängen,roikkua; riippua,hing,hingst,hing,hingen,hingt,hingen
+69,1018,versprechen,luvata,versprach,versprachst,versprach,versprachen,verspracht,versprachen
+70,1019,beschreiben,"kuvata, selostaa, luonnehtia",beschrieb,beschriebst,beschrieb,beschrieben,beschriebt,beschrieben
+71,72,brechen,rikkoa; murtaa,brach,brachst,brach,brachen,bracht,brachen
+72,75,stoßen,työntää; sysätä,stieß,stießest,stieß,stießen,stießet,stießen
+73,70,empfehlen,suositella,empfahl,empfahlst,empfahl,empfahlen,empfahlt,empfahlen
+74,67,mögen,pitää; tykätä,mochte,mochtest,mochte,mochten,mochtet,mochten
+75,69,fliegen,lentää,flog,flogst,flog,flogen,flogt,flogen
+76,71,genießen,nauttia,genoss,genossest,genoss,genossen,genosset,genossen
+77,77,leiden,kärsiä,litt,littest,litt,litten,littet,litten
+78,1013,stattfinden,tapahtua; toteutua,,,fand statt,,,fanden statt
+79,1021,verbringen,viettää,verbrachte,verbrachtest,verbrachte,verbrachten,verbrachtet,verbrachten
+80,109,vermeiden,välttää,vermied,vermiedest,vermied,vermieden,vermiedet,vermieden
+81,82,verschwinden,"kadota, hävitä, poistua",verschwand,verschwandst,verschwand,verschwanden,verschwandt,verschwanden
+82,1012,teilnehmen,osallistua,nahm teil,nahmst teil,nahm teil,nahmen teil,nahmt teil,nahmen teil
+83,1024,annehmen,olettaa,nahm an,nahmst an,nahm an,nahmen an,nahmt an,nahmen an
+84,88,vergessen,unohtaa,vergaß,vergaßt,vergaß,vergaßen,vergaßt,vergaßen
+85,90,singen,laulaa,sang,sangst,sang,sangen,sangt,sangen
+86,92,fangen,ottaa kiinni; pyydystää,fing,fingst,fing,fingen,fingt,fingen
+87,1025,ankommen,saapua,kam an,kamst an,kam an,kamen an,kamt an,kamen an
+88,54,essen,syödä,aß,aßt,aß,aßen,aßt,aßen
+89,94,trinken,juoda,trank,trankst,trank,tranken,trankt,tranken
+90,1006,anfangen,aloittaa,fing an,fingst an,fing an,fingen an,fingt an,fingen an
+91,100,schlafen,nukkua,schlief,schliefst,schlief,schliefen,schlieft,schliefen
+92,79,schneiden,leikata,schnitt,schnittest,schnitt,schnitten,schnittet,schnitten
+93,1028,einsteigen,astua kyytiin,stieg ein,stiegst ein,stieg ein,stiegen ein,stiegt ein,stiegen ein
+94,103,schwimmen,uida,schwamm,schwammst,schwamm,schwammen,schwammt,schwammen
+95,1026,anrufen,soittaa,rief an,riefst an,rief an,riefen an,rieft an,riefen an
+96,1029,aussteigen,poistua kyydistä,stieg aus,stiegst aus,stieg aus,stiegen aus,stiegt aus,stiegen aus
+97,116,waschen,pestä,wusch,wuschst,wusch,wuschen,wuscht,wuschen
+98,1027,aufstehen,nousta ylös,stand auf,standst auf,stand auf,standen auf,standet auf,standen auf
+99,1030,umsteigen,"vaihtaa kulkuneuvoa, vaihtaa toiseen yhteyteen",stieg um,stiegst um,stieg um,stiegen um,stiegt um,stiegen um
+100,127,leihen,lainata; antaa lainaksi,lieh,liehst,lieh,liehen,lieht,liehen

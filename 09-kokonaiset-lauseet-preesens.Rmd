@@ -1,0 +1,17 @@
+# (PART) Kirjoita koko lause {-}
+
+# Preesens {#kokonaiset-lauseet-preesens}
+
+Kirjoita koko saksankielinen lause vihjeen perusteella. Harjoituksessa käytetään samoja lauseita kuin Täydennä lauseet -osiossa.
+
+```{r kokonaiset-lauseet-preesens-data, echo=FALSE, results="asis"}
+emit_sentence_data()
+```
+
+```{r kokonaiset-lauseet-preesens-widget, echo=FALSE}
+drill_widget("www/drill-sentence-full-widget.html", "praesens", "Kirjoita koko lause: preesens")
+```
+
+```{r kokonaiset-lauseet-preesens-scripts, echo=FALSE}
+drill_scripts("sentence")
+```

@@ -1,0 +1,15 @@
+# Imperfekti {#kokonaiset-lauseet-imperfekti}
+
+Kirjoita koko saksankielinen lause vihjeen perusteella. Harjoituksessa käytetään samoja lauseita kuin Täydennä lauseet -osiossa.
+
+```{r kokonaiset-lauseet-imperfekti-data, echo=FALSE, results="asis"}
+emit_sentence_data()
+```
+
+```{r kokonaiset-lauseet-imperfekti-widget, echo=FALSE}
+drill_widget("www/drill-sentence-full-widget.html", "praeteritum", "Kirjoita koko lause: imperfekti")
+```
+
+```{r kokonaiset-lauseet-imperfekti-scripts, echo=FALSE}
+drill_scripts("sentence")
+```

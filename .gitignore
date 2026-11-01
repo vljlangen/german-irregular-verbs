@@ -1,0 +1,17 @@
+# Local source documents, corpus, previous project and historical research
+/cleanup/
+
+# Generated work files; the published _book directory is intentionally tracked
+/.build/
+__pycache__/
+*.py[cod]
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+
+Thumbs.db
+
+# Private project handoff for future sessions
+/PROJECT_MEMORY_LOCAL.md

@@ -1,0 +1,41 @@
+# Sein {#sein}
+
+**Sein on saksan olla-verbi.** Se ei ole modaaliverbi, vaan sitä käytetään sekä itsenäisenä verbinä että apuverbinä. Opettele sen persoonamuodot kokonaisuudessaan.
+
+<br>
+
+```{r sein-table, echo=FALSE, results="asis"}
+people <- c("ich", "du", "er", "wir", "ihr", "sie")
+labels <- c("ich", "du", "er / sie / es", "wir", "ihr", "sie / Sie")
+sein_forms <- function(tense) {
+  df <- read_conj_csv(paste0("saksa_epasaannolliset_verbit_", tense, ".csv"))
+  row <- df[df$infinitive == "sein", , drop = FALSE]
+  stopifnot(nrow(row) == 1L)
+  as.character(unlist(row[people], use.names = FALSE))
+}
+forms <- list(
+  "Preesens (Präsens)" = sein_forms("praesens"),
+  "Imperfekti (Präteritum)" = sein_forms("praeteritum"),
+  "Perfekti (Perfekt)" = sein_forms("perfekt"),
+  "Konjunktiv I" = c("sei", "seist", "sei", "seien", "seiet", "seien"),
+  "Konjunktiv II" = c("wäre", "wärst", "wäre", "wären", "wärt", "wären")
+)
+table <- data.frame(Persoona = labels, forms, row.names = NULL, check.names = FALSE)
+names(table) <- c("Persoona", names(forms))
+cat('<div class="modal-table-scroll" role="region" aria-label="sein" tabindex="0">\n')
+cat(knitr::kable(table, format = "html", row.names = FALSE, escape = TRUE), sep = "\n")
+cat("\n</div>\n")
+```
+
+
+Konjunktiv I:tä käytetään erityisesti epäsuorassa esityksessä, esimerkiksi *er sei*. Sen opettelu sopii jatkotasolle.
+
+## Imperatiivi
+
+```{r sein-imperative, echo=FALSE}
+knitr::kable(
+  data.frame(Puhuttelu = c("du", "ihr", "Sie"),
+             Muoto = c("sei!", "seid!", "seien Sie!")),
+  format = "html", row.names = FALSE, escape = TRUE
+)
+```

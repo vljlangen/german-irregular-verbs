@@ -1,0 +1,29 @@
+{
+  "include": [
+    "essen",
+    "trinken",
+    "schlafen",
+    "vergessen",
+    "teilnehmen",
+    "waschen",
+    "schwimmen",
+    "schneiden",
+    "leihen",
+    "fangen",
+    "singen"
+  ],
+  "exclude": [
+    "aufnehmen",
+    "angreifen",
+    "beschließen",
+    "besitzen",
+    "verbinden",
+    "schaffen",
+    "weisen",
+    "gleichen",
+    "treiben",
+    "schießen",
+    "klingen"
+  ],
+  "reason": "Author-selected everyday essentials complement frequency-based selection. All selected verbs remain sorted by corpus score."
+}

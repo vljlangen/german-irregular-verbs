@@ -1,0 +1,101 @@
+﻿rank,source_rank,infinitive,praesens,praeteritum,perfekt,suomi
+1,1001,sein,ist,war,ist gewesen,olla
+2,1,werden,wird,wurde,ist geworden,tulla joksikin; muuttua
+3,2,haben,hat,hatte,hat gehabt,omistaa; olla jonkun hallussa
+4,3,können,kann,konnte,hat gekonnt,kyetä
+5,5,sollen,soll,sollte,hat gesollt,pitää; olla määrä tehdä
+6,4,geben,gibt,gab,hat gegeben,antaa
+7,6,müssen,muss,musste,hat gemusst,täytyä; olla pakko
+8,7,kommen,kommt,kam,ist gekommen,tulla
+9,8,gehen,geht,ging,ist gegangen,mennä; kulkea jalan
+10,9,wollen,will,wollte,hat gewollt,haluta; tahtoa
+11,10,stehen,steht,stand,hat gestanden,seisoa
+12,11,sehen,sieht,sah,hat gesehen,nähdä
+13,12,bleiben,bleibt,blieb,ist geblieben,pysyä; jäädä
+14,13,lassen,lässt,ließ,hat gelassen,sallia; antaa tehdä
+15,14,finden,findet,fand,hat gefunden,löytää
+16,15,liegen,liegt,lag,hat gelegen,maata; sijaita
+17,16,bringen,bringt,brachte,hat gebracht,tuoda
+18,17,nehmen,nimmt,nahm,hat genommen,ottaa
+19,20,halten,hält,hielt,hat gehalten,pitää; pidellä
+20,18,sprechen,spricht,sprach,hat gesprochen,puhua
+21,21,heißen,heißt,hieß,hat geheißen,olla nimeltään
+22,22,gelten,gilt,galt,hat gegolten,olla voimassa
+23,25,dürfen,darf,durfte,hat gedurft,olla lupa; saada tehdä
+24,19,treffen,trifft,traf,hat getroffen,tavata; kohdata
+25,26,bieten,bietet,bot,hat geboten,tarjota
+26,24,wissen,weiß,wusste,hat gewusst,tietää
+27,1004,erhalten,erhält,erhielt,hat erhalten,saada; säilyttää
+28,1008,bekommen,bekommt,bekam,hat bekommen,saada
+29,28,ziehen,zieht,zog,hat gezogen,vetää
+30,30,laufen,läuft,lief,ist gelaufen,juosta
+31,23,tun,tut,tat,hat getan,tehdä
+32,33,fallen,fällt,fiel,ist gefallen,pudota; kaatua
+33,27,schreiben,schreibt,schrieb,hat geschrieben,kirjoittaa
+34,34,beginnen,beginnt,begann,hat begonnen,alkaa
+35,37,steigen,steigt,stieg,ist gestiegen,nousta; kohota
+36,31,fahren,fährt,fuhr,ist gefahren,matkustaa; kulkea ajoneuvolla
+37,35,verlieren,verliert,verlor,hat verloren,menettää; kadottaa
+38,36,gewinnen,gewinnt,gewann,hat gewonnen,voittaa; saada voitoksi
+39,1005,entscheiden,entscheidet,entschied,hat entschieden,ratkaista; päättää
+40,38,helfen,hilft,half,hat geholfen,auttaa
+41,1011,entstehen,entsteht,entstand,ist entstanden,syntyä; muodostua
+42,41,tragen,trägt,trug,hat getragen,"kantaa, pitää yllään, sietää"
+43,44,denken,denkt,dachte,hat gedacht,ajatella
+44,42,nennen,nennt,nannte,hat genannt,nimetä; kutsua nimellä
+45,43,scheinen,scheint,schien,hat geschienen,näyttää joltakin; loistaa
+46,1003,bestehen,besteht,bestand,hat bestanden,olla olemassa; läpäistä
+47,47,gelingen,gelingt,gelang,ist gelungen,onnistua
+48,40,schließen,schließt,schloss,hat geschlossen,sulkea
+49,45,treten,tritt,trat,ist getreten,astua
+50,49,kennen,kennt,kannte,hat gekannt,tuntea; olla tuttu
+51,48,schlagen,schlägt,schlug,hat geschlagen,lyödä
+52,1009,verlassen,verlässt,verließ,hat verlassen,jättää; poistua
+53,51,bitten,bittet,bat,hat gebeten,pyytää
+54,53,sitzen,sitzt,saß,hat gesessen,istua
+55,50,werfen,wirft,warf,hat geworfen,heittää
+56,52,sterben,stirbt,starb,ist gestorben,kuolla
+57,1014,geraten,gerät,geriet,ist geraten,joutua
+58,1002,verstehen,versteht,verstand,hat verstanden,ymmärtää
+59,58,rufen,ruft,rief,hat gerufen,kutsua paikalle
+60,59,wachsen,wächst,wuchs,ist gewachsen,kasvaa
+61,56,greifen,greift,griff,hat gegriffen,tarttua
+62,61,raten,rät,riet,hat geraten,neuvoa; arvata
+63,55,laden,lädt,lud,hat geladen,"ladata, kuormata"
+64,1010,erfahren,erfährt,erfuhr,hat erfahren,saada tietää; kokea
+65,57,lesen,liest,las,hat gelesen,lukea
+66,1007,anbieten,bietet an,bot an,hat angeboten,tarjota
+67,65,sinken,sinkt,sank,ist gesunken,painua alaspäin
+68,66,hängen,hängt,hing,hat gehangen,roikkua; riippua
+69,1018,versprechen,verspricht,versprach,hat versprochen,luvata
+70,1019,beschreiben,beschreibt,beschrieb,hat beschrieben,"kuvata, selostaa, luonnehtia"
+71,72,brechen,bricht,brach,hat gebrochen,rikkoa; murtaa
+72,75,stoßen,stößt,stieß,hat gestoßen,työntää; sysätä
+73,70,empfehlen,empfiehlt,empfahl,hat empfohlen,suositella
+74,67,mögen,mag,mochte,hat gemocht,pitää; tykätä
+75,69,fliegen,fliegt,flog,ist geflogen,lentää
+76,71,genießen,genießt,genoss,hat genossen,nauttia
+77,77,leiden,leidet,litt,hat gelitten,kärsiä
+78,1013,stattfinden,findet statt,fand statt,hat stattgefunden,tapahtua; toteutua
+79,1021,verbringen,verbringt,verbrachte,hat verbracht,viettää
+80,109,vermeiden,vermeidet,vermied,hat vermieden,välttää
+81,82,verschwinden,verschwindet,verschwand,ist verschwunden,"kadota, hävitä, poistua"
+82,1012,teilnehmen,nimmt teil,nahm teil,hat teilgenommen,osallistua
+83,1024,annehmen,nimmt an,nahm an,hat angenommen,olettaa
+84,88,vergessen,vergisst,vergaß,hat vergessen,unohtaa
+85,90,singen,singt,sang,hat gesungen,laulaa
+86,92,fangen,fängt,fing,hat gefangen,ottaa kiinni; pyydystää
+87,1025,ankommen,kommt an,kam an,ist angekommen,saapua
+88,54,essen,isst,aß,hat gegessen,syödä
+89,94,trinken,trinkt,trank,hat getrunken,juoda
+90,1006,anfangen,fängt an,fing an,hat angefangen,aloittaa
+91,100,schlafen,schläft,schlief,hat geschlafen,nukkua
+92,79,schneiden,schneidet,schnitt,hat geschnitten,leikata
+93,1028,einsteigen,steigt ein,stieg ein,ist eingestiegen,astua kyytiin
+94,103,schwimmen,schwimmt,schwamm,ist geschwommen,uida
+95,1026,anrufen,ruft an,rief an,hat angerufen,soittaa
+96,1029,aussteigen,steigt aus,stieg aus,ist ausgestiegen,poistua kyydistä
+97,116,waschen,wäscht,wusch,hat gewaschen,pestä
+98,1027,aufstehen,steht auf,stand auf,ist aufgestanden,nousta ylös
+99,1030,umsteigen,steigt um,stieg um,ist umgestiegen,"vaihtaa kulkuneuvoa, vaihtaa toiseen yhteyteen"
+100,127,leihen,leiht,lieh,hat geliehen,lainata; antaa lainaksi

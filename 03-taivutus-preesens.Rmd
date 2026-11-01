@@ -1,0 +1,15 @@
+# Preesens {#taivutus-preesens}
+
+Kirjoita vihjeen ja persoonan mukainen preesensmuoto.
+
+```{r taivutus-preesens-data, echo=FALSE, results="asis"}
+emit_conj_data()
+```
+
+```{r taivutus-preesens-widget, echo=FALSE}
+drill_widget("www/drill-conj-widget.html", "present", "Preesens")
+```
+
+```{r taivutus-preesens-scripts, echo=FALSE}
+drill_scripts("conj")
+```

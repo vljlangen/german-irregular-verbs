@@ -1,0 +1,46 @@
+# Modaaliverbit {#modaaliverbit}
+
+Opettele kuuden modaaliverbin persoonamuodot. Muiden verbien kohdalla teemamuotojen ja taivutussääntöjen tunteminen yleensä riittää muiden persoonamuotojen muodostamiseen.
+
+<br>
+
+```{r modal-tables, echo=FALSE, results="asis"}
+present <- read_conj_csv("saksa_epasaannolliset_verbit_fi_praesens.csv")
+preterite <- read_conj_csv("saksa_epasaannolliset_verbit_praeteritum.csv")
+perfect <- read_conj_csv("saksa_epasaannolliset_verbit_perfekt.csv")
+modal_info <- list(
+  dürfen = list(meaning = "saada; olla lupa", stem = "dürfte"),
+  können = list(meaning = "osata; voida", stem = "könnte"),
+  mögen = list(meaning = "pitää; tykätä", stem = "möchte"),
+  müssen = list(meaning = "täytyä; olla pakko", stem = "müsste"),
+  sollen = list(meaning = "pitää; olla määrä tehdä", stem = "sollte"),
+  wollen = list(meaning = "haluta; tahtoa", stem = "wollte")
+)
+people <- c("ich", "du", "er", "wir", "ihr", "sie")
+labels <- c("ich", "du", "er / sie / es", "wir", "ihr", "sie / Sie")
+for (verb in names(modal_info)) {
+  info <- modal_info[[verb]]
+  cat("\n\n## ", verb, "\n\n", sep = "")
+  get_row <- function(df) df[df$infinitive == verb, , drop = FALSE]
+  pr <- get_row(present)
+  pt <- get_row(preterite)
+  pf <- get_row(perfect)
+  stopifnot(nrow(pr) == 1L, nrow(pt) == 1L, nrow(pf) == 1L)
+  pr_forms <- vapply(people, function(person) {
+    sub(paste0("^", person, " "), "", as.character(pr[[person]]))
+  }, character(1))
+  forms <- list(
+    "Preesens (Präsens)" = pr_forms,
+    "Imperfekti (Präteritum)" = as.character(unlist(pt[people], use.names = FALSE)),
+    "Perfekti (Perfekt)" = as.character(unlist(pf[people], use.names = FALSE)),
+    "Konjunktiv II" = paste0(info$stem, c("", "st", "", "n", "t", "n"))
+  )
+  table <- data.frame(Persoona = labels, forms,
+                      row.names = NULL, check.names = FALSE)
+  names(table) <- c("Persoona", names(forms))
+  cat('<div class="modal-table-scroll" role="region" aria-label="',
+      verb, ': taivutusmuodot" tabindex="0">\n', sep = "")
+  cat(knitr::kable(table, format = "html", row.names = FALSE, escape = TRUE), sep = "\n")
+  cat("\n</div>\n\n")
+}
+```

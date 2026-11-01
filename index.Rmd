@@ -1,0 +1,45 @@
+---
+title: "Opi saksan epäsäännölliset verbit"
+author: "Ville Langén"
+lang: fi
+documentclass: book
+output:
+  bookdown::gitbook:
+    css: www/drill-heart.css
+    includes:
+      in_header: www/site-style.html
+    number_sections: false
+    toc_depth: 1
+    config:
+      toc:
+        scroll_highlight: yes
+        before: |
+          <li><a class="site-language-link" href="en/index.html" lang="en" hreflang="en"><i class="fa fa-language fa-fw"></i> English version</a></li>
+        after: |
+          <li class="sidebar-copyright">© 2026 Ville Langén · <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" target="_blank">CC BY-SA 4.0</a></li>
+---
+
+```{r setup, include=FALSE}
+source("scripts/bookdown_helpers.R")
+```
+
+
+
+# Alkusanat {#aloita .unnumbered}
+
+
+
+Harjoittele yleisiä saksan epäsäännöllisiä verbejä ilmaiseksi. Valitse harjoitus ja 10 verbin erä.
+
+- Teemamuodot: kertaa verbien [neljä perusmuotoa](#teemamuodot).
+- Taivutus: [preesens](#taivutus-preesens), [imperfekti](#taivutus-imperfekti) ja [perfekti](#taivutus-perfekti).
+- Täydennä lauseet: [preesens](#lauseet-preesens), [imperfekti](#lauseet-imperfekti) ja [perfekti](#lauseet-perfekti).
+
+- Kirjoita koko lause: [preesens](#kokonaiset-lauseet-preesens), [imperfekti](#kokonaiset-lauseet-imperfekti) ja [perfekti](#kokonaiset-lauseet-perfekti).
+
+[Verbiluettelosta](#verbiluettelo) voit tarkistaa muodot ja merkitykset. [Modaaliverbeillä](#modaaliverbit) on oma taivutusluettelonsa. Myös [sein-verbillä](#sein) on oma taivutustaulukkonsa.
+
+
+```{r homepage-footer, echo=FALSE}
+htmltools::includeHTML("www/site-footer.html")
+```

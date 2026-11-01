@@ -1,0 +1,15 @@
+# Perfekti {#kokonaiset-lauseet-perfekti}
+
+Kirjoita koko saksankielinen lause vihjeen perusteella. Harjoituksessa käytetään samoja lauseita kuin Täydennä lauseet -osiossa.
+
+```{r kokonaiset-lauseet-perfekti-data, echo=FALSE, results="asis"}
+emit_sentence_data()
+```
+
+```{r kokonaiset-lauseet-perfekti-widget, echo=FALSE}
+drill_widget("www/drill-sentence-full-widget.html", "perfekt", "Kirjoita koko lause: perfekti")
+```
+
+```{r kokonaiset-lauseet-perfekti-scripts, echo=FALSE}
+drill_scripts("sentence")
+```

@@ -1,0 +1,101 @@
+﻿rank,source_rank,infinitive,suomi,ich,du,er,wir,ihr,sie
+1,1001,sein,olla,bin gewesen,bist gewesen,ist gewesen,sind gewesen,seid gewesen,sind gewesen
+2,1,werden,tulla joksikin; muuttua,bin geworden,bist geworden,ist geworden,sind geworden,seid geworden,sind geworden
+3,2,haben,omistaa; olla jonkun hallussa,habe gehabt,hast gehabt,hat gehabt,haben gehabt,habt gehabt,haben gehabt
+4,3,können,kyetä,habe gekonnt,hast gekonnt,hat gekonnt,haben gekonnt,habt gekonnt,haben gekonnt
+5,5,sollen,pitää; olla määrä tehdä,habe gesollt,hast gesollt,hat gesollt,haben gesollt,habt gesollt,haben gesollt
+6,4,geben,antaa,habe gegeben,hast gegeben,hat gegeben,haben gegeben,habt gegeben,haben gegeben
+7,6,müssen,täytyä; olla pakko,habe gemusst,hast gemusst,hat gemusst,haben gemusst,habt gemusst,haben gemusst
+8,7,kommen,tulla,bin gekommen,bist gekommen,ist gekommen,sind gekommen,seid gekommen,sind gekommen
+9,8,gehen,mennä; kulkea jalan,bin gegangen,bist gegangen,ist gegangen,sind gegangen,seid gegangen,sind gegangen
+10,9,wollen,haluta; tahtoa,habe gewollt,hast gewollt,hat gewollt,haben gewollt,habt gewollt,haben gewollt
+11,10,stehen,seisoa,habe gestanden,hast gestanden,hat gestanden,haben gestanden,habt gestanden,haben gestanden
+12,11,sehen,nähdä,habe gesehen,hast gesehen,hat gesehen,haben gesehen,habt gesehen,haben gesehen
+13,12,bleiben,pysyä; jäädä,bin geblieben,bist geblieben,ist geblieben,sind geblieben,seid geblieben,sind geblieben
+14,13,lassen,sallia; antaa tehdä,habe gelassen,hast gelassen,hat gelassen,haben gelassen,habt gelassen,haben gelassen
+15,14,finden,löytää,habe gefunden,hast gefunden,hat gefunden,haben gefunden,habt gefunden,haben gefunden
+16,15,liegen,maata; sijaita,habe gelegen,hast gelegen,hat gelegen,haben gelegen,habt gelegen,haben gelegen
+17,16,bringen,tuoda,habe gebracht,hast gebracht,hat gebracht,haben gebracht,habt gebracht,haben gebracht
+18,17,nehmen,ottaa,habe genommen,hast genommen,hat genommen,haben genommen,habt genommen,haben genommen
+19,20,halten,pitää; pidellä,habe gehalten,hast gehalten,hat gehalten,haben gehalten,habt gehalten,haben gehalten
+20,18,sprechen,puhua,habe gesprochen,hast gesprochen,hat gesprochen,haben gesprochen,habt gesprochen,haben gesprochen
+21,21,heißen,olla nimeltään,habe geheißen,hast geheißen,hat geheißen,haben geheißen,habt geheißen,haben geheißen
+22,22,gelten,olla voimassa,,,hat gegolten,,,haben gegolten
+23,25,dürfen,olla lupa; saada tehdä,habe gedurft,hast gedurft,hat gedurft,haben gedurft,habt gedurft,haben gedurft
+24,19,treffen,tavata; kohdata,habe getroffen,hast getroffen,hat getroffen,haben getroffen,habt getroffen,haben getroffen
+25,26,bieten,tarjota,habe geboten,hast geboten,hat geboten,haben geboten,habt geboten,haben geboten
+26,24,wissen,tietää,habe gewusst,hast gewusst,hat gewusst,haben gewusst,habt gewusst,haben gewusst
+27,1004,erhalten,saada; säilyttää,habe erhalten,hast erhalten,hat erhalten,haben erhalten,habt erhalten,haben erhalten
+28,1008,bekommen,saada,habe bekommen,hast bekommen,hat bekommen,haben bekommen,habt bekommen,haben bekommen
+29,28,ziehen,vetää,habe gezogen,hast gezogen,hat gezogen,haben gezogen,habt gezogen,haben gezogen
+30,30,laufen,juosta,bin gelaufen,bist gelaufen,ist gelaufen,sind gelaufen,seid gelaufen,sind gelaufen
+31,23,tun,tehdä,habe getan,hast getan,hat getan,haben getan,habt getan,haben getan
+32,33,fallen,pudota; kaatua,bin gefallen,bist gefallen,ist gefallen,sind gefallen,seid gefallen,sind gefallen
+33,27,schreiben,kirjoittaa,habe geschrieben,hast geschrieben,hat geschrieben,haben geschrieben,habt geschrieben,haben geschrieben
+34,34,beginnen,alkaa,habe begonnen,hast begonnen,hat begonnen,haben begonnen,habt begonnen,haben begonnen
+35,37,steigen,nousta; kohota,bin gestiegen,bist gestiegen,ist gestiegen,sind gestiegen,seid gestiegen,sind gestiegen
+36,31,fahren,matkustaa; kulkea ajoneuvolla,bin gefahren,bist gefahren,ist gefahren,sind gefahren,seid gefahren,sind gefahren
+37,35,verlieren,menettää; kadottaa,habe verloren,hast verloren,hat verloren,haben verloren,habt verloren,haben verloren
+38,36,gewinnen,voittaa; saada voitoksi,habe gewonnen,hast gewonnen,hat gewonnen,haben gewonnen,habt gewonnen,haben gewonnen
+39,1005,entscheiden,ratkaista; päättää,habe entschieden,hast entschieden,hat entschieden,haben entschieden,habt entschieden,haben entschieden
+40,38,helfen,auttaa,habe geholfen,hast geholfen,hat geholfen,haben geholfen,habt geholfen,haben geholfen
+41,1011,entstehen,syntyä; muodostua,,,ist entstanden,,,sind entstanden
+42,41,tragen,"kantaa, pitää yllään, sietää",habe getragen,hast getragen,hat getragen,haben getragen,habt getragen,haben getragen
+43,44,denken,ajatella,habe gedacht,hast gedacht,hat gedacht,haben gedacht,habt gedacht,haben gedacht
+44,42,nennen,nimetä; kutsua nimellä,habe genannt,hast genannt,hat genannt,haben genannt,habt genannt,haben genannt
+45,43,scheinen,näyttää joltakin; loistaa,habe geschienen,hast geschienen,hat geschienen,haben geschienen,habt geschienen,haben geschienen
+46,1003,bestehen,olla olemassa; läpäistä,habe bestanden,hast bestanden,hat bestanden,haben bestanden,habt bestanden,haben bestanden
+47,47,gelingen,onnistua,,,ist gelungen,,,sind gelungen
+48,40,schließen,sulkea,habe geschlossen,hast geschlossen,hat geschlossen,haben geschlossen,habt geschlossen,haben geschlossen
+49,45,treten,astua,bin getreten,bist getreten,ist getreten,sind getreten,seid getreten,sind getreten
+50,49,kennen,tuntea; olla tuttu,habe gekannt,hast gekannt,hat gekannt,haben gekannt,habt gekannt,haben gekannt
+51,48,schlagen,lyödä,habe geschlagen,hast geschlagen,hat geschlagen,haben geschlagen,habt geschlagen,haben geschlagen
+52,1009,verlassen,jättää; poistua,habe verlassen,hast verlassen,hat verlassen,haben verlassen,habt verlassen,haben verlassen
+53,51,bitten,pyytää,habe gebeten,hast gebeten,hat gebeten,haben gebeten,habt gebeten,haben gebeten
+54,53,sitzen,istua,habe gesessen,hast gesessen,hat gesessen,haben gesessen,habt gesessen,haben gesessen
+55,50,werfen,heittää,habe geworfen,hast geworfen,hat geworfen,haben geworfen,habt geworfen,haben geworfen
+56,52,sterben,kuolla,bin gestorben,bist gestorben,ist gestorben,sind gestorben,seid gestorben,sind gestorben
+57,1014,geraten,joutua,bin geraten,bist geraten,ist geraten,sind geraten,seid geraten,sind geraten
+58,1002,verstehen,ymmärtää,habe verstanden,hast verstanden,hat verstanden,haben verstanden,habt verstanden,haben verstanden
+59,58,rufen,kutsua paikalle,habe gerufen,hast gerufen,hat gerufen,haben gerufen,habt gerufen,haben gerufen
+60,59,wachsen,kasvaa,bin gewachsen,bist gewachsen,ist gewachsen,sind gewachsen,seid gewachsen,sind gewachsen
+61,56,greifen,tarttua,habe gegriffen,hast gegriffen,hat gegriffen,haben gegriffen,habt gegriffen,haben gegriffen
+62,61,raten,neuvoa; arvata,habe geraten,hast geraten,hat geraten,haben geraten,habt geraten,haben geraten
+63,55,laden,"ladata, kuormata",habe geladen,hast geladen,hat geladen,haben geladen,habt geladen,haben geladen
+64,1010,erfahren,saada tietää; kokea,habe erfahren,hast erfahren,hat erfahren,haben erfahren,habt erfahren,haben erfahren
+65,57,lesen,lukea,habe gelesen,hast gelesen,hat gelesen,haben gelesen,habt gelesen,haben gelesen
+66,1007,anbieten,tarjota,habe angeboten,hast angeboten,hat angeboten,haben angeboten,habt angeboten,haben angeboten
+67,65,sinken,painua alaspäin,bin gesunken,bist gesunken,ist gesunken,sind gesunken,seid gesunken,sind gesunken
+68,66,hängen,roikkua; riippua,habe gehangen,hast gehangen,hat gehangen,haben gehangen,habt gehangen,haben gehangen
+69,1018,versprechen,luvata,habe versprochen,hast versprochen,hat versprochen,haben versprochen,habt versprochen,haben versprochen
+70,1019,beschreiben,"kuvata, selostaa, luonnehtia",habe beschrieben,hast beschrieben,hat beschrieben,haben beschrieben,habt beschrieben,haben beschrieben
+71,72,brechen,rikkoa; murtaa,habe gebrochen,hast gebrochen,hat gebrochen,haben gebrochen,habt gebrochen,haben gebrochen
+72,75,stoßen,työntää; sysätä,habe gestoßen,hast gestoßen,hat gestoßen,haben gestoßen,habt gestoßen,haben gestoßen
+73,70,empfehlen,suositella,habe empfohlen,hast empfohlen,hat empfohlen,haben empfohlen,habt empfohlen,haben empfohlen
+74,67,mögen,pitää; tykätä,habe gemocht,hast gemocht,hat gemocht,haben gemocht,habt gemocht,haben gemocht
+75,69,fliegen,lentää,bin geflogen,bist geflogen,ist geflogen,sind geflogen,seid geflogen,sind geflogen
+76,71,genießen,nauttia,habe genossen,hast genossen,hat genossen,haben genossen,habt genossen,haben genossen
+77,77,leiden,kärsiä,habe gelitten,hast gelitten,hat gelitten,haben gelitten,habt gelitten,haben gelitten
+78,1013,stattfinden,tapahtua; toteutua,,,hat stattgefunden,,,haben stattgefunden
+79,1021,verbringen,viettää,habe verbracht,hast verbracht,hat verbracht,haben verbracht,habt verbracht,haben verbracht
+80,109,vermeiden,välttää,habe vermieden,hast vermieden,hat vermieden,haben vermieden,habt vermieden,haben vermieden
+81,82,verschwinden,"kadota, hävitä, poistua",bin verschwunden,bist verschwunden,ist verschwunden,sind verschwunden,seid verschwunden,sind verschwunden
+82,1012,teilnehmen,osallistua,habe teilgenommen,hast teilgenommen,hat teilgenommen,haben teilgenommen,habt teilgenommen,haben teilgenommen
+83,1024,annehmen,olettaa,habe angenommen,hast angenommen,hat angenommen,haben angenommen,habt angenommen,haben angenommen
+84,88,vergessen,unohtaa,habe vergessen,hast vergessen,hat vergessen,haben vergessen,habt vergessen,haben vergessen
+85,90,singen,laulaa,habe gesungen,hast gesungen,hat gesungen,haben gesungen,habt gesungen,haben gesungen
+86,92,fangen,ottaa kiinni; pyydystää,habe gefangen,hast gefangen,hat gefangen,haben gefangen,habt gefangen,haben gefangen
+87,1025,ankommen,saapua,bin angekommen,bist angekommen,ist angekommen,sind angekommen,seid angekommen,sind angekommen
+88,54,essen,syödä,habe gegessen,hast gegessen,hat gegessen,haben gegessen,habt gegessen,haben gegessen
+89,94,trinken,juoda,habe getrunken,hast getrunken,hat getrunken,haben getrunken,habt getrunken,haben getrunken
+90,1006,anfangen,aloittaa,habe angefangen,hast angefangen,hat angefangen,haben angefangen,habt angefangen,haben angefangen
+91,100,schlafen,nukkua,habe geschlafen,hast geschlafen,hat geschlafen,haben geschlafen,habt geschlafen,haben geschlafen
+92,79,schneiden,leikata,habe geschnitten,hast geschnitten,hat geschnitten,haben geschnitten,habt geschnitten,haben geschnitten
+93,1028,einsteigen,astua kyytiin,bin eingestiegen,bist eingestiegen,ist eingestiegen,sind eingestiegen,seid eingestiegen,sind eingestiegen
+94,103,schwimmen,uida,bin geschwommen,bist geschwommen,ist geschwommen,sind geschwommen,seid geschwommen,sind geschwommen
+95,1026,anrufen,soittaa,habe angerufen,hast angerufen,hat angerufen,haben angerufen,habt angerufen,haben angerufen
+96,1029,aussteigen,poistua kyydistä,bin ausgestiegen,bist ausgestiegen,ist ausgestiegen,sind ausgestiegen,seid ausgestiegen,sind ausgestiegen
+97,116,waschen,pestä,habe gewaschen,hast gewaschen,hat gewaschen,haben gewaschen,habt gewaschen,haben gewaschen
+98,1027,aufstehen,nousta ylös,bin aufgestanden,bist aufgestanden,ist aufgestanden,sind aufgestanden,seid aufgestanden,sind aufgestanden
+99,1030,umsteigen,"vaihtaa kulkuneuvoa, vaihtaa toiseen yhteyteen",bin umgestiegen,bist umgestiegen,ist umgestiegen,sind umgestiegen,seid umgestiegen,sind umgestiegen
+100,127,leihen,lainata; antaa lainaksi,habe geliehen,hast geliehen,hat geliehen,haben geliehen,habt geliehen,haben geliehen

@@ -1,0 +1,73 @@
+infinitive	praesens	praeteritum	perfekt	group
+sein	ist	war	ist gewesen	required
+verstehen	versteht	verstand	hat verstanden	required
+bestehen	besteht	bestand	hat bestanden	required
+erhalten	erhält	erhielt	hat erhalten	required
+entscheiden	entscheidet	entschied	hat entschieden	required
+anfangen	fängt an	fing an	hat angefangen	required
+anbieten	bietet an	bot an	hat angeboten	required
+bergen	birgt	barg	hat geborgen	grammar
+empfangen	empfängt	empfing	hat empfangen	grammar
+empfinden	empfindet	empfand	hat empfunden	grammar
+erlöschen	erlischt	erlosch	ist erloschen	grammar
+erwägen	erwägt	erwog	hat erwogen	grammar
+gedeihen	gedeiht	gedieh	ist gediehen	grammar
+geraten	gerät	geriet	ist geraten	grammar
+kneifen	kneift	kniff	hat gekniffen	grammar
+misslingen	misslingt	misslang	ist misslungen	grammar
+reiben	reibt	rieb	hat gerieben	grammar
+scheiden	scheidet	schied	hat geschieden	grammar
+schwellen	schwillt	schwoll	ist geschwollen	grammar
+schwinden	schwindet	schwand	ist geschwunden	grammar
+werben	wirbt	warb	hat geworben	grammar
+wiegen	wiegt	wog	hat gewogen	grammar
+bekommen	bekommt	bekam	hat bekommen	prefix
+verlassen	verlässt	verließ	hat verlassen	prefix
+erfahren	erfährt	erfuhr	hat erfahren	prefix
+entstehen	entsteht	entstand	ist entstanden	prefix
+unternehmen	unternimmt	unternahm	hat unternommen	prefix
+teilnehmen	nimmt teil	nahm teil	hat teilgenommen	prefix
+stattfinden	findet statt	fand statt	hat stattgefunden	prefix
+aussehen	sieht aus	sah aus	hat ausgesehen	prefix
+beschließen	beschließt	beschloss	hat beschlossen	additional_corpus
+beschreiben	beschreibt	beschrieb	hat beschrieben	additional_corpus
+besitzen	besitzt	besaß	hat besessen	additional_corpus
+abbiegen	biegt ab	bog ab	ist abgebogen	grammar
+nachdenken	denkt nach	dachte nach	hat nachgedacht	grammar
+ertragen	erträgt	ertrug	hat ertragen	grammar
+abfahren	fährt ab	fuhr ab	ist abgefahren	grammar
+abfliegen	fliegt ab	flog ab	ist abgeflogen	grammar
+gefallen	gefällt	gefiel	hat gefallen	grammar
+angreifen	greift an	griff an	hat angegriffen	additional_corpus
+ankommen	kommt an	kam an	ist angekommen	pedagogical
+auskommen	kommt aus	kam aus	ist ausgekommen	grammar
+missverstehen	missversteht	missverstand	hat missverstanden	grammar
+abnehmen	nimmt ab	nahm ab	hat abgenommen	grammar
+annehmen	nimmt an	nahm an	hat angenommen	additional_corpus
+aufnehmen	nimmt auf	nahm auf	hat aufgenommen	additional_corpus
+zunehmen	nimmt zu	nahm zu	hat zugenommen	grammar
+anrufen	ruft an	rief an	hat angerufen	pedagogical
+ausschlafen	schläft aus	schlief aus	hat ausgeschlafen	grammar
+einschlafen	schläft ein	schlief ein	ist eingeschlafen	grammar
+vorschlagen	schlägt vor	schlug vor	hat vorgeschlagen	grammar
+aufschreiben	schreibt auf	schrieb auf	hat aufgeschrieben	grammar
+umschreiben	schreibt um	schrieb um	hat umgeschrieben	grammar
+ansehen	sieht an	sah an	hat angesehen	grammar
+fernsehen	sieht fern	sah fern	hat ferngesehen	grammar
+aussprechen	spricht aus	sprach aus	hat ausgesprochen	grammar
+aufstehen	steht auf	stand auf	ist aufgestanden	pedagogical
+aussteigen	steigt aus	stieg aus	ist ausgestiegen	pedagogical
+einsteigen	steigt ein	stieg ein	ist eingestiegen	pedagogical
+umsteigen	steigt um	stieg um	ist umgestiegen	pedagogical
+beitreten	tritt bei	trat bei	ist beigetreten	grammar
+verbinden	verbindet	verband	hat verbunden	additional_corpus
+verbringen	verbringt	verbrachte	hat verbracht	additional_corpus
+vergehen	vergeht	verging	ist vergangen	grammar
+vergleichen	vergleicht	verglich	hat verglichen	grammar
+versprechen	verspricht	versprach	hat versprochen	additional_corpus
+abwaschen	wäscht ab	wusch ab	hat abgewaschen	grammar
+bewerben	bewirbt	bewarb	hat sich beworben	grammar
+anziehen	zieht an	zog an	hat angezogen	grammar
+ausziehen	zieht aus	zog aus	hat ausgezogen	grammar
+umziehen	zieht um	zog um	hat umgezogen	grammar
+einziehen	zieht ein	zog ein	ist eingezogen	grammar

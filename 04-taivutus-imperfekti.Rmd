@@ -1,0 +1,15 @@
+# Imperfekti {#taivutus-imperfekti}
+
+Kirjoita vihjeen ja persoonan mukainen Präteritum-muoto. Esimerkiksi: **nähdä · ich → sah**.
+
+```{r taivutus-imperfekti-data, echo=FALSE, results="asis"}
+emit_conj_data()
+```
+
+```{r taivutus-imperfekti-widget, echo=FALSE}
+drill_widget("www/drill-conj-widget.html", "preterite", "Imperfekti")
+```
+
+```{r taivutus-imperfekti-scripts, echo=FALSE}
+drill_scripts("conj")
+```

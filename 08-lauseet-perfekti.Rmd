@@ -1,0 +1,15 @@
+# Perfekti {#lauseet-perfekti}
+
+Täydennä apuverbi ja lauseen loppuun tuleva verbiosa. Esimerkiksi: `Ich [habe] Brot [gegessen].` Modaaliverbin kanssa loppuun tulee kaksi infinitiiviä: `Ich [habe] [schwimmen können].` Kirjoita vain puuttuvat verbiosat.
+
+```{r lauseet-perfekti-data, echo=FALSE, results="asis"}
+emit_sentence_data()
+```
+
+```{r lauseet-perfekti-widget, echo=FALSE}
+drill_widget("www/drill-sentence-widget.html", "perfekt", "Lauseet: perfekti")
+```
+
+```{r lauseet-perfekti-scripts, echo=FALSE}
+drill_scripts("sentence")
+```

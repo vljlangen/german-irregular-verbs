@@ -1,0 +1,101 @@
+﻿rank,source_rank,infinitive,suomi,tense,person,sentence_fi,sentence_de,cloze_de,answer_finite,answer_tail,article_hint
+1,1001,sein,olla,praeteritum,ich,Olin kotona.,Ich war zu Hause.,Ich {finite} zu Hause.,war,,
+2,1,werden,tulla joksikin; muuttua,praeteritum,ich,Minusta tuli väsynyt.,Ich wurde müde.,Ich {finite} müde.,wurde,,
+3,2,haben,omistaa; olla jonkun hallussa,praeteritum,ich,Minulla oli aikaa.,Ich hatte Zeit.,Ich {finite} Zeit.,hatte,,
+4,3,können,kyetä,praeteritum,ich,Kykenin uimaan.,Ich konnte schwimmen.,Ich {finite} schwimmen.,konnte,,
+5,5,sollen,pitää; olla määrä tehdä,praeteritum,ich,Minun piti opiskella.,Ich sollte lernen.,Ich {finite} lernen.,sollte,,
+6,4,geben,antaa,praeteritum,ich,Annoin sinulle vettä.,Ich gab dir Wasser.,Ich {finite} dir Wasser.,gab,,
+7,6,müssen,täytyä; olla pakko,praeteritum,ich,Minun täytyi työskennellä.,Ich musste arbeiten.,Ich {finite} arbeiten.,musste,,
+8,7,kommen,tulla,praeteritum,ich,Tulin ajoissa.,Ich kam rechtzeitig.,Ich {finite} rechtzeitig.,kam,,
+9,8,gehen,mennä; kulkea jalan,praeteritum,ich,Menin kotiin.,Ich ging nach Hause.,Ich {finite} nach Hause.,ging,,
+10,9,wollen,haluta; tahtoa,praeteritum,ich,Halusin nukkua.,Ich wollte schlafen.,Ich {finite} schlafen.,wollte,,
+11,10,stehen,seisoa,praeteritum,ich,Seisoin täällä.,Ich stand hier.,Ich {finite} hier.,stand,,
+12,11,sehen,nähdä,praeteritum,ich,Näin auton.,Ich sah ein Auto.,Ich {finite} ein Auto.,sah,,epämääräinen artikkeli
+13,12,bleiben,pysyä; jäädä,praeteritum,ich,Jäin kotiin.,Ich blieb zu Hause.,Ich {finite} zu Hause.,blieb,,
+14,13,lassen,sallia; antaa tehdä,praeteritum,ich,Jätin ikkunan auki.,Ich ließ das Fenster offen.,Ich {finite} das Fenster offen.,ließ,,määräinen artikkeli
+15,14,finden,löytää,praeteritum,ich,Löysin avaimen.,Ich fand den Schlüssel.,Ich {finite} den Schlüssel.,fand,,määräinen artikkeli
+16,15,liegen,maata; sijaita,praeteritum,er,Kirja oli täällä.,Das Buch lag hier.,Das Buch {finite} hier.,lag,,määräinen artikkeli
+17,16,bringen,tuoda,praeteritum,ich,Toin leipää.,Ich brachte Brot.,Ich {finite} Brot.,brachte,,
+18,17,nehmen,ottaa,praeteritum,ich,Otin bussin.,Ich nahm den Bus.,Ich {finite} den Bus.,nahm,,määräinen artikkeli
+19,20,halten,pitää; pidellä,praeteritum,ich,Pidin ovea.,Ich hielt die Tür.,Ich {finite} die Tür.,hielt,,määräinen artikkeli
+20,18,sprechen,puhua,praeteritum,ich,Puhuin saksaa.,Ich sprach Deutsch.,Ich {finite} Deutsch.,sprach,,
+21,21,heißen,olla nimeltään,praeteritum,ich,Nimeni oli Anna.,Ich hieß Anna.,Ich {finite} Anna.,hieß,,
+22,22,gelten,olla voimassa,praeteritum,er,Lippu oli voimassa.,Das Ticket galt.,Das Ticket {finite}.,galt,,määräinen artikkeli
+23,25,dürfen,olla lupa; saada tehdä,praeteritum,ich,Sain mennä.,Ich durfte gehen.,Ich {finite} gehen.,durfte,,
+24,19,treffen,tavata; kohdata,praeteritum,ich,Tapasin ystäväni.,Ich traf meinen Freund.,Ich {finite} meinen Freund.,traf,,
+25,26,bieten,tarjota,praeteritum,wir,Tarjosimme apua.,Wir boten Hilfe.,Wir {finite} Hilfe.,boten,,
+26,24,wissen,tietää,praeteritum,ich,Tiesin sen.,Ich wusste das.,Ich {finite} das.,wusste,,
+27,1004,erhalten,saada; säilyttää,praeteritum,ich,Sain vastauksen.,Ich erhielt eine Antwort.,Ich {finite} eine Antwort.,erhielt,,epämääräinen artikkeli
+28,1008,bekommen,saada,praeteritum,ich,Sain lahjan.,Ich bekam ein Geschenk.,Ich {finite} ein Geschenk.,bekam,,epämääräinen artikkeli
+29,28,ziehen,vetää,praeteritum,ich,Vedin pöytää.,Ich zog den Tisch.,Ich {finite} den Tisch.,zog,,määräinen artikkeli
+30,30,laufen,juosta,praeteritum,ich,Juoksin puistossa.,Ich lief im Park.,Ich {finite} im Park.,lief,,määräinen artikkeli
+31,23,tun,tehdä,praeteritum,ich,Tein paljon.,Ich tat viel.,Ich {finite} viel.,tat,,
+32,33,fallen,pudota; kaatua,praeteritum,er,Lasi putosi maahan.,Das Glas fiel zu Boden.,Das Glas {finite} zu Boden.,fiel,,määräinen artikkeli
+33,27,schreiben,kirjoittaa,praeteritum,ich,Kirjoitin sähköpostin.,Ich schrieb eine E-Mail.,Ich {finite} eine E-Mail.,schrieb,,epämääräinen artikkeli
+34,34,beginnen,alkaa,praeteritum,ich,Aloitin työn.,Ich begann die Arbeit.,Ich {finite} die Arbeit.,begann,,määräinen artikkeli
+35,37,steigen,nousta; kohota,praeteritum,ich,Nousin portaita.,Ich stieg die Treppe hinauf.,Ich {finite} die Treppe hinauf.,stieg,,määräinen artikkeli
+36,31,fahren,matkustaa; kulkea ajoneuvolla,praeteritum,ich,Matkustin Turkuun.,Ich fuhr nach Turku.,Ich {finite} nach Turku.,fuhr,,
+37,35,verlieren,menettää; kadottaa,praeteritum,ich,Kadotin puhelimeni.,Ich verlor mein Handy.,Ich {finite} mein Handy.,verlor,,
+38,36,gewinnen,voittaa; saada voitoksi,praeteritum,ich,Voitin pelin.,Ich gewann das Spiel.,Ich {finite} das Spiel.,gewann,,määräinen artikkeli
+39,1005,entscheiden,ratkaista; päättää,praeteritum,ich,Ratkaisin riidan.,Ich entschied den Streit.,Ich {finite} den Streit.,entschied,,määräinen artikkeli
+40,38,helfen,auttaa,praeteritum,ich,Autoin äitiäni.,Ich half meiner Mutter.,Ich {finite} meiner Mutter.,half,,
+41,1011,entstehen,syntyä; muodostua,praeteritum,er,Ongelma syntyi.,Ein Problem entstand.,Ein Problem {finite}.,entstand,,epämääräinen artikkeli
+42,41,tragen,"kantaa, pitää yllään, sietää",praeteritum,ich,Kannoin laukkua.,Ich trug eine Tasche.,Ich {finite} eine Tasche.,trug,,epämääräinen artikkeli
+43,44,denken,ajatella,praeteritum,ich,Ajattelin sinua.,Ich dachte an dich.,Ich {finite} an dich.,dachte,,
+44,42,nennen,nimetä; kutsua nimellä,praeteritum,ich,Kutsuin häntä Maxiksi.,Ich nannte ihn Max.,Ich {finite} ihn Max.,nannte,,
+45,43,scheinen,näyttää joltakin; loistaa,praeteritum,er,Aurinko paistoi.,Die Sonne schien.,Die Sonne {finite}.,schien,,määräinen artikkeli
+46,1003,bestehen,olla olemassa; läpäistä,praeteritum,ich,Läpäisin kokeen.,Ich bestand die Prüfung.,Ich {finite} die Prüfung.,bestand,,määräinen artikkeli
+47,47,gelingen,onnistua,praeteritum,er,Se onnistui minulle.,Das gelang mir.,Das {finite} mir.,gelang,,
+48,40,schließen,sulkea,praeteritum,ich,Suljin oven.,Ich schloss die Tür.,Ich {finite} die Tür.,schloss,,määräinen artikkeli
+49,45,treten,astua,praeteritum,ich,Astuin lavalle.,Ich trat auf die Bühne.,Ich {finite} auf die Bühne.,trat,,määräinen artikkeli
+50,49,kennen,tuntea; olla tuttu,praeteritum,ich,Tunsin hänet.,Ich kannte ihn.,Ich {finite} ihn.,kannte,,
+51,48,schlagen,lyödä,praeteritum,ich,Löin palloa.,Ich schlug den Ball.,Ich {finite} den Ball.,schlug,,määräinen artikkeli
+52,1009,verlassen,jättää; poistua,praeteritum,ich,Lähdin talosta.,Ich verließ das Haus.,Ich {finite} das Haus.,verließ,,määräinen artikkeli
+53,51,bitten,pyytää,praeteritum,ich,Pyysin apua.,Ich bat um Hilfe.,Ich {finite} um Hilfe.,bat,,
+54,53,sitzen,istua,praeteritum,ich,Istuin täällä.,Ich saß hier.,Ich {finite} hier.,saß,,
+55,50,werfen,heittää,praeteritum,ich,Heitin pallon.,Ich warf den Ball.,Ich {finite} den Ball.,warf,,määräinen artikkeli
+56,52,sterben,kuolla,praeteritum,er,Kasvi kuoli.,Die Pflanze starb.,Die Pflanze {finite}.,starb,,määräinen artikkeli
+57,1014,geraten,joutua,praeteritum,ich,Jouduin vaikeuksiin.,Ich geriet in Schwierigkeiten.,Ich {finite} in Schwierigkeiten.,geriet,,
+58,1002,verstehen,ymmärtää,praeteritum,ich,Ymmärsin kysymyksen.,Ich verstand die Frage.,Ich {finite} die Frage.,verstand,,määräinen artikkeli
+59,58,rufen,kutsua paikalle,praeteritum,ich,Kutsuin ystäväni paikalle.,Ich rief meinen Freund.,Ich {finite} meinen Freund.,rief,,
+60,59,wachsen,kasvaa,praeteritum,er,Lapsi kasvoi nopeasti.,Das Kind wuchs schnell.,Das Kind {finite} schnell.,wuchs,,määräinen artikkeli
+61,56,greifen,tarttua,praeteritum,ich,Tartuin lasiin.,Ich griff nach dem Glas.,Ich {finite} nach dem Glas.,griff,,määräinen artikkeli
+62,61,raten,neuvoa; arvata,praeteritum,ich,Neuvoin sinua.,Ich riet dir.,Ich {finite} dir.,riet,,
+63,55,laden,"ladata, kuormata",praeteritum,ich,Lastasin auton.,Ich lud das Auto.,Ich {finite} das Auto.,lud,,määräinen artikkeli
+64,1010,erfahren,saada tietää; kokea,praeteritum,ich,Sain tietää totuuden.,Ich erfuhr die Wahrheit.,Ich {finite} die Wahrheit.,erfuhr,,määräinen artikkeli
+65,57,lesen,lukea,praeteritum,ich,Luin kirjaa.,Ich las ein Buch.,Ich {finite} ein Buch.,las,,epämääräinen artikkeli
+66,1007,anbieten,tarjota,praeteritum,ich,Tarjosin sinulle apua.,Ich bot dir Hilfe an.,Ich {finite} dir Hilfe an.,bot,,
+67,65,sinken,painua alaspäin,praeteritum,er,Laiva painui pinnan alle.,Das Schiff sank.,Das Schiff {finite}.,sank,,määräinen artikkeli
+68,66,hängen,roikkua; riippua,praeteritum,er,Taulu roikkui siellä.,Das Bild hing dort.,Das Bild {finite} dort.,hing,,määräinen artikkeli
+69,1018,versprechen,luvata,praeteritum,ich,Lupasin sinulle apua.,Ich versprach dir Hilfe.,Ich {finite} dir Hilfe.,versprach,,
+70,1019,beschreiben,"kuvata, selostaa, luonnehtia",praeteritum,ich,Kuvasin reitin.,Ich beschrieb den Weg.,Ich {finite} den Weg.,beschrieb,,määräinen artikkeli
+71,72,brechen,rikkoa; murtaa,praeteritum,ich,Mursin leivän.,Ich brach das Brot.,Ich {finite} das Brot.,brach,,määräinen artikkeli
+72,75,stoßen,työntää; sysätä,praeteritum,ich,Työnsin ovea.,Ich stieß die Tür.,Ich {finite} die Tür.,stieß,,määräinen artikkeli
+73,70,empfehlen,suositella,praeteritum,ich,Suosittelin kirjaa.,Ich empfahl das Buch.,Ich {finite} das Buch.,empfahl,,määräinen artikkeli
+74,67,mögen,pitää; tykätä,praeteritum,ich,Pidin kahvista.,Ich mochte Kaffee.,Ich {finite} Kaffee.,mochte,,
+75,69,fliegen,lentää,praeteritum,ich,Lensin Saksaan.,Ich flog nach Deutschland.,Ich {finite} nach Deutschland.,flog,,
+76,71,genießen,nauttia,praeteritum,ich,Nautin lomasta.,Ich genoss den Urlaub.,Ich {finite} den Urlaub.,genoss,,määräinen artikkeli
+77,77,leiden,kärsiä,praeteritum,ich,Kärsin päänsärystä.,Ich litt an Kopfschmerzen.,Ich {finite} an Kopfschmerzen.,litt,,
+78,1013,stattfinden,tapahtua; toteutua,praeteritum,er,Tapaaminen pidettiin täällä.,Das Treffen fand hier statt.,Das Treffen {finite} hier statt.,fand,,määräinen artikkeli
+79,1021,verbringen,viettää,praeteritum,ich,Vietin kesän täällä.,Ich verbrachte den Sommer hier.,Ich {finite} den Sommer hier.,verbrachte,,määräinen artikkeli
+80,109,vermeiden,välttää,praeteritum,ich,Vältin stressiä.,Ich vermied Stress.,Ich {finite} Stress.,vermied,,
+81,82,verschwinden,"kadota, hävitä, poistua",praeteritum,er,Koira katosi.,Der Hund verschwand.,Der Hund {finite}.,verschwand,,määräinen artikkeli
+82,1012,teilnehmen,osallistua,praeteritum,ich,Osallistuin kurssille.,Ich nahm am Kurs teil.,Ich {finite} am Kurs teil.,nahm,,määräinen artikkeli
+83,1024,annehmen,olettaa,praeteritum,ich,Oletin niin.,Ich nahm das an.,Ich {finite} das an.,nahm,,
+84,88,vergessen,unohtaa,praeteritum,ich,Unohdin nimen.,Ich vergaß den Namen.,Ich {finite} den Namen.,vergaß,,määräinen artikkeli
+85,90,singen,laulaa,praeteritum,ich,Lauloin laulun.,Ich sang ein Lied.,Ich {finite} ein Lied.,sang,,epämääräinen artikkeli
+86,92,fangen,ottaa kiinni; pyydystää,praeteritum,ich,Otin pallon kiinni.,Ich fing den Ball.,Ich {finite} den Ball.,fing,,määräinen artikkeli
+87,1025,ankommen,saapua,praeteritum,ich,Saavuin asemalle.,Ich kam am Bahnhof an.,Ich {finite} am Bahnhof an.,kam,,määräinen artikkeli
+88,54,essen,syödä,praeteritum,ich,Söin leipää.,Ich aß Brot.,Ich {finite} Brot.,aß,,
+89,94,trinken,juoda,praeteritum,ich,Join vettä.,Ich trank Wasser.,Ich {finite} Wasser.,trank,,
+90,1006,anfangen,aloittaa,praeteritum,ich,Aloitin työn.,Ich fing mit der Arbeit an.,Ich {finite} mit der Arbeit an.,fing,,määräinen artikkeli
+91,100,schlafen,nukkua,praeteritum,ich,Nukuin pitkään.,Ich schlief lange.,Ich {finite} lange.,schlief,,
+92,79,schneiden,leikata,praeteritum,ich,Leikkasin leivän.,Ich schnitt das Brot.,Ich {finite} das Brot.,schnitt,,määräinen artikkeli
+93,1028,einsteigen,astua kyytiin,praeteritum,ich,Astuin junaan.,Ich stieg in den Zug ein.,Ich {finite} in den Zug ein.,stieg,,määräinen artikkeli
+94,103,schwimmen,uida,praeteritum,ich,Uin mielelläni.,Ich schwamm gern.,Ich {finite} gern.,schwamm,,
+95,1026,anrufen,soittaa,praeteritum,ich,Soitin sinulle.,Ich rief dich an.,Ich {finite} dich an.,rief,,
+96,1029,aussteigen,poistua kyydistä,praeteritum,ich,Poistuin bussista.,Ich stieg aus dem Bus aus.,Ich {finite} aus dem Bus aus.,stieg,,määräinen artikkeli
+97,116,waschen,pestä,praeteritum,ich,Pesin käteni.,Ich wusch meine Hände.,Ich {finite} meine Hände.,wusch,,
+98,1027,aufstehen,nousta ylös,praeteritum,ich,Nousin aikaisin.,Ich stand früh auf.,Ich {finite} früh auf.,stand,,
+99,1030,umsteigen,"vaihtaa kulkuneuvoa, vaihtaa toiseen yhteyteen",praeteritum,ich,Vaihdoin junaa Kölnissä.,Ich stieg in Köln um.,Ich {finite} in Köln um.,stieg,,
+100,127,leihen,lainata; antaa lainaksi,praeteritum,ich,Lainasin rahaa.,Ich lieh Geld.,Ich {finite} Geld.,lieh,,

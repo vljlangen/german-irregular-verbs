@@ -1,0 +1,101 @@
+﻿rank,source_rank,infinitive,suomi,ich,minä,du,sinä,er,hän,wir,me,ihr,te,sie,he
+1,1001,sein,olla,ich bin,minä olen,du bist,sinä olet,er ist,hän on,wir sind,me olemme,ihr seid,te olette,sie sind,he ovat
+2,1,werden,tulla joksikin; muuttua,ich werde,minä tulen joksikin,du wirst,sinä tulet joksikin,er wird,hän tulee joksikin,wir werden,me tulemme joksikin,ihr werdet,te tulette joksikin,sie werden,he tulevat joksikin
+3,2,haben,omistaa; olla jonkun hallussa,ich habe,minulla on,du hast,sinulla on,er hat,hänellä on,wir haben,meillä on,ihr habt,teillä on,sie haben,heillä on
+4,3,können,kyetä,ich kann,minä kykenen,du kannst,sinä kykenet,er kann,hän kykenee,wir können,me kykenemme,ihr könnt,te kykenette,sie können,he kykenevät
+5,5,sollen,pitää; olla määrä tehdä,ich soll,minun pitää,du sollst,sinun pitää,er soll,hänen pitää,wir sollen,meidän pitää,ihr sollt,teidän pitää,sie sollen,heidän pitää
+6,4,geben,antaa,ich gebe,minä annan,du gibst,sinä annat,er gibt,hän antaa,wir geben,me annamme,ihr gebt,te annatte,sie geben,he antavat
+7,6,müssen,täytyä; olla pakko,ich muss,minun täytyy,du musst,sinun täytyy,er muss,hänen täytyy,wir müssen,meidän täytyy,ihr müsst,teidän täytyy,sie müssen,heidän täytyy
+8,7,kommen,tulla,ich komme,minä tulen,du kommst,sinä tulet,er kommt,hän tulee,wir kommen,me tulemme,ihr kommt,te tulette,sie kommen,he tulevat
+9,8,gehen,mennä; kulkea jalan,ich gehe,minä menen,du gehst,sinä menet,er geht,hän menee,wir gehen,me menemme,ihr geht,te menette,sie gehen,he menevät
+10,9,wollen,haluta; tahtoa,ich will,minä haluan,du willst,sinä haluat,er will,hän haluaa,wir wollen,me haluamme,ihr wollt,te haluatte,sie wollen,he haluavat
+11,10,stehen,seisoa,ich stehe,minä seison,du stehst,sinä seisot,er steht,hän seisoo,wir stehen,me seisomme,ihr steht,te seisotte,sie stehen,he seisovat
+12,11,sehen,nähdä,ich sehe,minä näen,du siehst,sinä näet,er sieht,hän näkee,wir sehen,me näemme,ihr seht,te näette,sie sehen,he näkevät
+13,12,bleiben,pysyä; jäädä,ich bleibe,minä pysyn,du bleibst,sinä pysyt,er bleibt,hän pysyy,wir bleiben,me pysymme,ihr bleibt,te pysytte,sie bleiben,he pysyvät
+14,13,lassen,sallia; antaa tehdä,ich lasse,minä sallin,du lässt,sinä sallit,er lässt,hän sallii,wir lassen,me sallimme,ihr lasst,te sallitte,sie lassen,he sallivat
+15,14,finden,löytää,ich finde,minä löydän,du findest,sinä löydät,er findet,hän löytää,wir finden,me löydämme,ihr findet,te löydätte,sie finden,he löytävät
+16,15,liegen,maata; sijaita,ich liege,minä makaan,du liegst,sinä makaat,er liegt,hän makaa,wir liegen,me makaamme,ihr liegt,te makaatte,sie liegen,he makaavat
+17,16,bringen,tuoda,ich bringe,minä tuon,du bringst,sinä tuot,er bringt,hän tuo,wir bringen,me tuomme,ihr bringt,te tuotte,sie bringen,he tuovat
+18,17,nehmen,ottaa,ich nehme,minä otan,du nimmst,sinä otat,er nimmt,hän ottaa,wir nehmen,me otamme,ihr nehmt,te otatte,sie nehmen,he ottavat
+19,20,halten,pitää; pidellä,ich halte,minä pidän,du hältst,sinä pidät,er hält,hän pitää,wir halten,me pidämme,ihr haltet,te pidätte,sie halten,he pitävät
+20,18,sprechen,puhua,ich spreche,minä puhun,du sprichst,sinä puhut,er spricht,hän puhuu,wir sprechen,me puhumme,ihr sprecht,te puhutte,sie sprechen,he puhuvat
+21,21,heißen,olla nimeltään,ich heiße,minä olen nimeltäni,du heißt,sinä olet nimeltäsi,er heißt,hän on nimeltään,wir heißen,me olemme nimeltämme,ihr heißt,te olette nimeltänne,sie heißen,he ovat nimeltään
+22,22,gelten,olla voimassa,,,,,es gilt,se on voimassa,,,,,sie gelten,ne ovat voimassa
+23,25,dürfen,olla lupa; saada tehdä,ich darf,minun on lupa,du darfst,sinun on lupa,er darf,hänen on lupa,wir dürfen,meidän on lupa,ihr dürft,teidän on lupa,sie dürfen,heidän on lupa
+24,19,treffen,tavata; kohdata,ich treffe,minä tapaan,du triffst,sinä tapaat,er trifft,hän tapaa,wir treffen,me tapaamme,ihr trefft,te tapaatte,sie treffen,he tapaavat
+25,26,bieten,tarjota,ich biete,minä tarjoan,du bietest,sinä tarjoat,er bietet,hän tarjoaa,wir bieten,me tarjoamme,ihr bietet,te tarjoatte,sie bieten,he tarjoavat
+26,24,wissen,tietää,ich weiß,minä tiedän,du weißt,sinä tiedät,er weiß,hän tietää,wir wissen,me tiedämme,ihr wisst,te tiedätte,sie wissen,he tietävät
+27,1004,erhalten,saada; säilyttää,ich erhalte,minä saan,du erhältst,sinä saat,er erhält,hän saa,wir erhalten,me saamme,ihr erhaltet,te saatte,sie erhalten,he saavat
+28,1008,bekommen,saada,ich bekomme,minä saan,du bekommst,sinä saat,er bekommt,hän saa,wir bekommen,me saamme,ihr bekommt,te saatte,sie bekommen,he saavat
+29,28,ziehen,vetää,ich ziehe,minä vedän,du ziehst,sinä vedät,er zieht,hän vetää,wir ziehen,me vedämme,ihr zieht,te vedätte,sie ziehen,he vetävät
+30,30,laufen,juosta,ich laufe,minä juoksen,du läufst,sinä juokset,er läuft,hän juoksee,wir laufen,me juoksemme,ihr lauft,te juoksette,sie laufen,he juoksevat
+31,23,tun,tehdä,ich tue,minä teen,du tust,sinä teet,er tut,hän tekee,wir tun,me teemme,ihr tut,te teette,sie tun,he tekevät
+32,33,fallen,pudota; kaatua,ich falle,minä putoan,du fällst,sinä putoat,er fällt,hän putoaa,wir fallen,me putoamme,ihr fallt,te putoatte,sie fallen,he putoavat
+33,27,schreiben,kirjoittaa,ich schreibe,minä kirjoitan,du schreibst,sinä kirjoitat,er schreibt,hän kirjoittaa,wir schreiben,me kirjoitamme,ihr schreibt,te kirjoitatte,sie schreiben,he kirjoittavat
+34,34,beginnen,alkaa,ich beginne,minä alan,du beginnst,sinä alat,er beginnt,hän alkaa,wir beginnen,me alamme,ihr beginnt,te alatte,sie beginnen,he alkavat
+35,37,steigen,nousta; kohota,ich steige,minä nousen,du steigst,sinä nouset,er steigt,hän nousee,wir steigen,me nousemme,ihr steigt,te nousette,sie steigen,he nousevat
+36,31,fahren,matkustaa; kulkea ajoneuvolla,ich fahre,minä matkustan,du fährst,sinä matkustat,er fährt,hän matkustaa,wir fahren,me matkustamme,ihr fahrt,te matkustatte,sie fahren,he matkustavat
+37,35,verlieren,menettää; kadottaa,ich verliere,minä menetän,du verlierst,sinä menetät,er verliert,hän menettää,wir verlieren,me menetämme,ihr verliert,te menetätte,sie verlieren,he menettävät
+38,36,gewinnen,voittaa; saada voitoksi,ich gewinne,minä voitan,du gewinnst,sinä voitat,er gewinnt,hän voittaa,wir gewinnen,me voitamme,ihr gewinnt,te voitatte,sie gewinnen,he voittavat
+39,1005,entscheiden,ratkaista; päättää,ich entscheide,minä ratkaisen,du entscheidest,sinä ratkaiset,er entscheidet,hän ratkaisee,wir entscheiden,me ratkaisemme,ihr entscheidet,te ratkaisette,sie entscheiden,he ratkaisevat
+40,38,helfen,auttaa,ich helfe,minä autan,du hilfst,sinä autat,er hilft,hän auttaa,wir helfen,me autamme,ihr helft,te autatte,sie helfen,he auttavat
+41,1011,entstehen,syntyä; muodostua,,,,,es entsteht,se syntyy,,,,,sie entstehen,ne syntyvät
+42,41,tragen,"kantaa, pitää yllään, sietää",ich trage,minä kannan,du trägst,sinä kannat,er trägt,hän kantaa,wir tragen,me kannamme,ihr tragt,te kannatte,sie tragen,he kantavat
+43,44,denken,ajatella,ich denke,minä ajattelen,du denkst,sinä ajattelet,er denkt,hän ajattelee,wir denken,me ajattelemme,ihr denkt,te ajattelette,sie denken,he ajattelevat
+44,42,nennen,nimetä; kutsua nimellä,ich nenne,minä nimitän,du nennst,sinä nimität,er nennt,hän nimittää,wir nennen,me nimitämme,ihr nennt,te nimitätte,sie nennen,he nimittävät
+45,43,scheinen,näyttää joltakin; loistaa,ich scheine,minä näytän joltakin,du scheinst,sinä näytät joltakin,er scheint,hän näyttää joltakin,wir scheinen,me näytämme joltakin,ihr scheint,te näytätte joltakin,sie scheinen,he näyttävät joltakin
+46,1003,bestehen,olla olemassa; läpäistä,ich bestehe,minä läpäisen,du bestehst,sinä läpäiset,er besteht,hän läpäisee,wir bestehen,me läpäisemme,ihr besteht,te läpäisette,sie bestehen,he läpäisevät
+47,47,gelingen,onnistua,,,,,es gelingt,se onnistuu,,,,,sie gelingen,ne onnistuvat
+48,40,schließen,sulkea,ich schließe,minä suljen,du schließt,sinä suljet,er schließt,hän sulkee,wir schließen,me suljemme,ihr schließt,te suljette,sie schließen,he sulkevat
+49,45,treten,astua,ich trete,minä astun,du trittst,sinä astut,er tritt,hän astuu,wir treten,me astumme,ihr tretet,te astutte,sie treten,he astuvat
+50,49,kennen,tuntea; olla tuttu,ich kenne,minä tunnen,du kennst,sinä tunnet,er kennt,hän tuntee,wir kennen,me tunnemme,ihr kennt,te tunnette,sie kennen,he tuntevat
+51,48,schlagen,lyödä,ich schlage,minä lyön,du schlägst,sinä lyöt,er schlägt,hän lyö,wir schlagen,me lyömme,ihr schlagt,te lyötte,sie schlagen,he lyövät
+52,1009,verlassen,jättää; poistua,ich verlasse,minä jätän,du verlässt,sinä jätät,er verlässt,hän jättää,wir verlassen,me jätämme,ihr verlasst,te jätätte,sie verlassen,he jättävät
+53,51,bitten,pyytää,ich bitte,minä pyydän,du bittest,sinä pyydät,er bittet,hän pyytää,wir bitten,me pyydämme,ihr bittet,te pyydätte,sie bitten,he pyytävät
+54,53,sitzen,istua,ich sitze,minä istun,du sitzt,sinä istut,er sitzt,hän istuu,wir sitzen,me istumme,ihr sitzt,te istutte,sie sitzen,he istuvat
+55,50,werfen,heittää,ich werfe,minä heitän,du wirfst,sinä heität,er wirft,hän heittää,wir werfen,me heitämme,ihr werft,te heitätte,sie werfen,he heittävät
+56,52,sterben,kuolla,ich sterbe,minä kuolen,du stirbst,sinä kuolet,er stirbt,hän kuolee,wir sterben,me kuolemme,ihr sterbt,te kuolette,sie sterben,he kuolevat
+57,1014,geraten,joutua,ich gerate,minä joudun,du gerätst,sinä joudut,er gerät,hän joutuu,wir geraten,me joudumme,ihr geratet,te joudutte,sie geraten,he joutuvat
+58,1002,verstehen,ymmärtää,ich verstehe,minä ymmärrän,du verstehst,sinä ymmärrät,er versteht,hän ymmärtää,wir verstehen,me ymmärrämme,ihr versteht,te ymmärrätte,sie verstehen,he ymmärtävät
+59,58,rufen,kutsua paikalle,ich rufe,minä kutsun paikalle,du rufst,sinä kutsut paikalle,er ruft,hän kutsuu paikalle,wir rufen,me kutsumme paikalle,ihr ruft,te kutsutte paikalle,sie rufen,he kutsuvat paikalle
+60,59,wachsen,kasvaa,ich wachse,minä kasvan,du wächst,sinä kasvat,er wächst,hän kasvaa,wir wachsen,me kasvamme,ihr wachst,te kasvatte,sie wachsen,he kasvavat
+61,56,greifen,tarttua,ich greife,minä tartun,du greifst,sinä tartut,er greift,hän tarttuu,wir greifen,me tartumme,ihr greift,te tartutte,sie greifen,he tarttuvat
+62,61,raten,neuvoa; arvata,ich rate,minä neuvon,du rätst,sinä neuvot,er rät,hän neuvoo,wir raten,me neuvomme,ihr ratet,te neuvotte,sie raten,he neuvovat
+63,55,laden,"ladata, kuormata",ich lade,minä lataan,du lädst,sinä lataat,er lädt,hän lataa,wir laden,me lataamme,ihr ladet,te lataatte,sie laden,he lataavat
+64,1010,erfahren,saada tietää; kokea,ich erfahre,minä saan tietää,du erfährst,sinä saat tietää,er erfährt,hän saa tietää,wir erfahren,me saamme tietää,ihr erfahrt,te saatte tietää,sie erfahren,he saavat tietää
+65,57,lesen,lukea,ich lese,minä luen,du liest,sinä luet,er liest,hän lukee,wir lesen,me luemme,ihr lest,te luette,sie lesen,he lukevat
+66,1007,anbieten,tarjota,ich biete an,minä tarjoan,du bietest an,sinä tarjoat,er bietet an,hän tarjoaa,wir bieten an,me tarjoamme,ihr bietet an,te tarjoatte,sie bieten an,he tarjoavat
+67,65,sinken,painua alaspäin,ich sinke,minä painun alaspäin,du sinkst,sinä painut alaspäin,er sinkt,hän painuu alaspäin,wir sinken,me painumme alaspäin,ihr sinkt,te painutte alaspäin,sie sinken,he painuvat alaspäin
+68,66,hängen,roikkua; riippua,ich hänge,minä roikun,du hängst,sinä roikut,er hängt,hän roikkuu,wir hängen,me roikumme,ihr hängt,te roikutte,sie hängen,he roikkuvat
+69,1018,versprechen,luvata,ich verspreche,minä lupaan,du versprichst,sinä lupaat,er verspricht,hän lupaa,wir versprechen,me lupaamme,ihr versprecht,te lupaatte,sie versprechen,he lupaavat
+70,1019,beschreiben,"kuvata, selostaa, luonnehtia",ich beschreibe,minä kuvaan,du beschreibst,sinä kuvaat,er beschreibt,hän kuvaa,wir beschreiben,me kuvaamme,ihr beschreibt,te kuvaatte,sie beschreiben,he kuvaavat
+71,72,brechen,rikkoa; murtaa,ich breche,minä rikon,du brichst,sinä rikot,er bricht,hän rikkoo,wir brechen,me rikomme,ihr brecht,te rikotte,sie brechen,he rikkovat
+72,75,stoßen,työntää; sysätä,ich stoße,minä työnnän,du stößt,sinä työnnät,er stößt,hän työntää,wir stoßen,me työnnämme,ihr stoßt,te työnnätte,sie stoßen,he työntävät
+73,70,empfehlen,suositella,ich empfehle,minä suosittelen,du empfiehlst,sinä suosittelet,er empfiehlt,hän suosittelee,wir empfehlen,me suosittelemme,ihr empfehlt,te suosittelette,sie empfehlen,he suosittelevat
+74,67,mögen,pitää; tykätä,ich mag,minä tykkään,du magst,sinä tykkäät,er mag,hän tykkää,wir mögen,me tykkäämme,ihr mögt,te tykkäätte,sie mögen,he tykkäävät
+75,69,fliegen,lentää,ich fliege,minä lennän,du fliegst,sinä lennät,er fliegt,hän lentää,wir fliegen,me lennämme,ihr fliegt,te lennätte,sie fliegen,he lentävät
+76,71,genießen,nauttia,ich genieße,minä nautin,du genießt,sinä nautit,er genießt,hän nauttii,wir genießen,me nautimme,ihr genießt,te nautitte,sie genießen,he nauttivat
+77,77,leiden,kärsiä,ich leide,minä kärsin,du leidest,sinä kärsit,er leidet,hän kärsii,wir leiden,me kärsimme,ihr leidet,te kärsitte,sie leiden,he kärsivät
+78,1013,stattfinden,tapahtua; toteutua,,,,,es findet statt,se tapahtuu,,,,,sie finden statt,ne tapahtuvat
+79,1021,verbringen,viettää,ich verbringe,minä vietän,du verbringst,sinä vietät,er verbringt,hän viettää,wir verbringen,me vietämme,ihr verbringt,te vietätte,sie verbringen,he viettävät
+80,109,vermeiden,välttää,ich vermeide,minä vältän,du vermeidest,sinä vältät,er vermeidet,hän välttää,wir vermeiden,me vältämme,ihr vermeidet,te vältätte,sie vermeiden,he välttävät
+81,82,verschwinden,"kadota, hävitä, poistua",ich verschwinde,minä katoan,du verschwindest,sinä katoat,er verschwindet,hän katoaa,wir verschwinden,me katoamme,ihr verschwindet,te katoatte,sie verschwinden,he katoavat
+82,1012,teilnehmen,osallistua,ich nehme teil,minä osallistun,du nimmst teil,sinä osallistut,er nimmt teil,hän osallistuu,wir nehmen teil,me osallistumme,ihr nehmt teil,te osallistutte,sie nehmen teil,he osallistuvat
+83,1024,annehmen,olettaa,ich nehme an,minä oletan,du nimmst an,sinä oletat,er nimmt an,hän olettaa,wir nehmen an,me oletamme,ihr nehmt an,te oletatte,sie nehmen an,he olettavat
+84,88,vergessen,unohtaa,ich vergesse,minä unohdan,du vergisst,sinä unohdat,er vergisst,hän unohtaa,wir vergessen,me unohdamme,ihr vergesst,te unohdatte,sie vergessen,he unohtavat
+85,90,singen,laulaa,ich singe,minä laulan,du singst,sinä laulat,er singt,hän laulaa,wir singen,me laulamme,ihr singt,te laulatte,sie singen,he laulavat
+86,92,fangen,ottaa kiinni; pyydystää,ich fange,minä pyydystän,du fängst,sinä pyydystät,er fängt,hän pyydystää,wir fangen,me pyydystämme,ihr fangt,te pyydystätte,sie fangen,he pyydystävät
+87,1025,ankommen,saapua,ich komme an,minä saavun,du kommst an,sinä saavut,er kommt an,hän saapuu,wir kommen an,me saavumme,ihr kommt an,te saavutte,sie kommen an,he saapuvat
+88,54,essen,syödä,ich esse,minä syön,du isst,sinä syöt,er isst,hän syö,wir essen,me syömme,ihr esst,te syötte,sie essen,he syövät
+89,94,trinken,juoda,ich trinke,minä juon,du trinkst,sinä juot,er trinkt,hän juo,wir trinken,me juomme,ihr trinkt,te juotte,sie trinken,he juovat
+90,1006,anfangen,aloittaa,ich fange an,minä aloitan,du fängst an,sinä aloitat,er fängt an,hän aloittaa,wir fangen an,me aloitamme,ihr fangt an,te aloitatte,sie fangen an,he aloittavat
+91,100,schlafen,nukkua,ich schlafe,minä nukun,du schläfst,sinä nukut,er schläft,hän nukkuu,wir schlafen,me nukumme,ihr schlaft,te nukutte,sie schlafen,he nukkuvat
+92,79,schneiden,leikata,ich schneide,minä leikkaan,du schneidest,sinä leikkaat,er schneidet,hän leikkaa,wir schneiden,me leikkaamme,ihr schneidet,te leikkaatte,sie schneiden,he leikkaavat
+93,1028,einsteigen,astua kyytiin,ich steige ein,minä astun kyytiin,du steigst ein,sinä astut kyytiin,er steigt ein,hän astuu kyytiin,wir steigen ein,me astumme kyytiin,ihr steigt ein,te astutte kyytiin,sie steigen ein,he astuvat kyytiin
+94,103,schwimmen,uida,ich schwimme,minä uin,du schwimmst,sinä uit,er schwimmt,hän ui,wir schwimmen,me uimme,ihr schwimmt,te uitte,sie schwimmen,he uivat
+95,1026,anrufen,soittaa,ich rufe an,minä soitan,du rufst an,sinä soitat,er ruft an,hän soittaa,wir rufen an,me soitamme,ihr ruft an,te soitatte,sie rufen an,he soittavat
+96,1029,aussteigen,poistua kyydistä,ich steige aus,minä poistun kyydistä,du steigst aus,sinä poistut kyydistä,er steigt aus,hän poistuu kyydistä,wir steigen aus,me poistumme kyydistä,ihr steigt aus,te poistutte kyydistä,sie steigen aus,he poistuvat kyydistä
+97,116,waschen,pestä,ich wasche,minä pesen,du wäschst,sinä peset,er wäscht,hän pesee,wir waschen,me pesemme,ihr wascht,te pesette,sie waschen,he pesevät
+98,1027,aufstehen,nousta ylös,ich stehe auf,minä nousen ylös,du stehst auf,sinä nouset ylös,er steht auf,hän nousee ylös,wir stehen auf,me nousemme ylös,ihr steht auf,te nousette ylös,sie stehen auf,he nousevat ylös
+99,1030,umsteigen,"vaihtaa kulkuneuvoa, vaihtaa toiseen yhteyteen",ich steige um,minä vaihdan kulkuneuvoa,du steigst um,sinä vaihdat kulkuneuvoa,er steigt um,hän vaihtaa kulkuneuvoa,wir steigen um,me vaihdamme kulkuneuvoa,ihr steigt um,te vaihdatte kulkuneuvoa,sie steigen um,he vaihtavat kulkuneuvoa
+100,127,leihen,lainata; antaa lainaksi,ich leihe,minä lainaan,du leihst,sinä lainaat,er leiht,hän lainaa,wir leihen,me lainaamme,ihr leiht,te lainaatte,sie leihen,he lainaavat

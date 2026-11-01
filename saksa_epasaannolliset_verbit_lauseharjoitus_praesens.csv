@@ -1,0 +1,101 @@
+﻿rank,source_rank,infinitive,suomi,tense,person,sentence_fi,sentence_de,cloze_de,answer_finite,answer_tail,article_hint
+1,1001,sein,olla,praesens,ich,Olen kotona.,Ich bin zu Hause.,Ich {finite} zu Hause.,bin,,
+2,1,werden,tulla joksikin; muuttua,praesens,ich,Minusta tulee väsynyt.,Ich werde müde.,Ich {finite} müde.,werde,,
+3,2,haben,omistaa; olla jonkun hallussa,praesens,ich,Minulla on aikaa.,Ich habe Zeit.,Ich {finite} Zeit.,habe,,
+4,3,können,kyetä,praesens,ich,Kykenen uimaan.,Ich kann schwimmen.,Ich {finite} schwimmen.,kann,,
+5,5,sollen,pitää; olla määrä tehdä,praesens,ich,Minun pitää opiskella.,Ich soll lernen.,Ich {finite} lernen.,soll,,
+6,4,geben,antaa,praesens,ich,Annan sinulle vettä.,Ich gebe dir Wasser.,Ich {finite} dir Wasser.,gebe,,
+7,6,müssen,täytyä; olla pakko,praesens,ich,Minun täytyy työskennellä.,Ich muss arbeiten.,Ich {finite} arbeiten.,muss,,
+8,7,kommen,tulla,praesens,ich,Tulen ajoissa.,Ich komme rechtzeitig.,Ich {finite} rechtzeitig.,komme,,
+9,8,gehen,mennä; kulkea jalan,praesens,ich,Menen kotiin.,Ich gehe nach Hause.,Ich {finite} nach Hause.,gehe,,
+10,9,wollen,haluta; tahtoa,praesens,ich,Haluan nukkua.,Ich will schlafen.,Ich {finite} schlafen.,will,,
+11,10,stehen,seisoa,praesens,ich,Seison täällä.,Ich stehe hier.,Ich {finite} hier.,stehe,,
+12,11,sehen,nähdä,praesens,ich,Näen auton.,Ich sehe ein Auto.,Ich {finite} ein Auto.,sehe,,epämääräinen artikkeli
+13,12,bleiben,pysyä; jäädä,praesens,ich,Jään kotiin.,Ich bleibe zu Hause.,Ich {finite} zu Hause.,bleibe,,
+14,13,lassen,sallia; antaa tehdä,praesens,ich,Jätän ikkunan auki.,Ich lasse das Fenster offen.,Ich {finite} das Fenster offen.,lasse,,määräinen artikkeli
+15,14,finden,löytää,praesens,ich,Löydän avaimen.,Ich finde den Schlüssel.,Ich {finite} den Schlüssel.,finde,,määräinen artikkeli
+16,15,liegen,maata; sijaita,praesens,er,Kirja on täällä.,Das Buch liegt hier.,Das Buch {finite} hier.,liegt,,määräinen artikkeli
+17,16,bringen,tuoda,praesens,ich,Tuon leipää.,Ich bringe Brot.,Ich {finite} Brot.,bringe,,
+18,17,nehmen,ottaa,praesens,ich,Otan bussin.,Ich nehme den Bus.,Ich {finite} den Bus.,nehme,,määräinen artikkeli
+19,20,halten,pitää; pidellä,praesens,ich,Pidän ovea.,Ich halte die Tür.,Ich {finite} die Tür.,halte,,määräinen artikkeli
+20,18,sprechen,puhua,praesens,ich,Puhun saksaa.,Ich spreche Deutsch.,Ich {finite} Deutsch.,spreche,,
+21,21,heißen,olla nimeltään,praesens,ich,Nimeni on Anna.,Ich heiße Anna.,Ich {finite} Anna.,heiße,,
+22,22,gelten,olla voimassa,praesens,er,Lippu on voimassa.,Das Ticket gilt.,Das Ticket {finite}.,gilt,,määräinen artikkeli
+23,25,dürfen,olla lupa; saada tehdä,praesens,ich,Saan mennä.,Ich darf gehen.,Ich {finite} gehen.,darf,,
+24,19,treffen,tavata; kohdata,praesens,ich,Tapaan ystäväni.,Ich treffe meinen Freund.,Ich {finite} meinen Freund.,treffe,,
+25,26,bieten,tarjota,praesens,wir,Tarjoamme apua.,Wir bieten Hilfe.,Wir {finite} Hilfe.,bieten,,
+26,24,wissen,tietää,praesens,ich,Tiedän sen.,Ich weiß das.,Ich {finite} das.,weiß,,
+27,1004,erhalten,saada; säilyttää,praesens,ich,Saan vastauksen.,Ich erhalte eine Antwort.,Ich {finite} eine Antwort.,erhalte,,epämääräinen artikkeli
+28,1008,bekommen,saada,praesens,ich,Saan lahjan.,Ich bekomme ein Geschenk.,Ich {finite} ein Geschenk.,bekomme,,epämääräinen artikkeli
+29,28,ziehen,vetää,praesens,ich,Vedän pöytää.,Ich ziehe den Tisch.,Ich {finite} den Tisch.,ziehe,,määräinen artikkeli
+30,30,laufen,juosta,praesens,ich,Juoksen puistossa.,Ich laufe im Park.,Ich {finite} im Park.,laufe,,määräinen artikkeli
+31,23,tun,tehdä,praesens,ich,Teen paljon.,Ich tue viel.,Ich {finite} viel.,tue,,
+32,33,fallen,pudota; kaatua,praesens,er,Lasi putoaa maahan.,Das Glas fällt zu Boden.,Das Glas {finite} zu Boden.,fällt,,määräinen artikkeli
+33,27,schreiben,kirjoittaa,praesens,ich,Kirjoitan sähköpostin.,Ich schreibe eine E-Mail.,Ich {finite} eine E-Mail.,schreibe,,epämääräinen artikkeli
+34,34,beginnen,alkaa,praesens,ich,Aloitan työn.,Ich beginne die Arbeit.,Ich {finite} die Arbeit.,beginne,,määräinen artikkeli
+35,37,steigen,nousta; kohota,praesens,ich,Nousen portaita.,Ich steige die Treppe hinauf.,Ich {finite} die Treppe hinauf.,steige,,määräinen artikkeli
+36,31,fahren,matkustaa; kulkea ajoneuvolla,praesens,ich,Matkustan Turkuun.,Ich fahre nach Turku.,Ich {finite} nach Turku.,fahre,,
+37,35,verlieren,menettää; kadottaa,praesens,ich,Kadotan puhelimeni.,Ich verliere mein Handy.,Ich {finite} mein Handy.,verliere,,
+38,36,gewinnen,voittaa; saada voitoksi,praesens,ich,Voitan pelin.,Ich gewinne das Spiel.,Ich {finite} das Spiel.,gewinne,,määräinen artikkeli
+39,1005,entscheiden,ratkaista; päättää,praesens,ich,Ratkaisen riidan.,Ich entscheide den Streit.,Ich {finite} den Streit.,entscheide,,määräinen artikkeli
+40,38,helfen,auttaa,praesens,ich,Autan äitiäni.,Ich helfe meiner Mutter.,Ich {finite} meiner Mutter.,helfe,,
+41,1011,entstehen,syntyä; muodostua,praesens,er,Ongelma syntyy.,Ein Problem entsteht.,Ein Problem {finite}.,entsteht,,epämääräinen artikkeli
+42,41,tragen,"kantaa, pitää yllään, sietää",praesens,ich,Kannan laukkua.,Ich trage eine Tasche.,Ich {finite} eine Tasche.,trage,,epämääräinen artikkeli
+43,44,denken,ajatella,praesens,ich,Ajattelen sinua.,Ich denke an dich.,Ich {finite} an dich.,denke,,
+44,42,nennen,nimetä; kutsua nimellä,praesens,ich,Kutsun häntä Maxiksi.,Ich nenne ihn Max.,Ich {finite} ihn Max.,nenne,,
+45,43,scheinen,näyttää joltakin; loistaa,praesens,er,Aurinko paistaa.,Die Sonne scheint.,Die Sonne {finite}.,scheint,,määräinen artikkeli
+46,1003,bestehen,olla olemassa; läpäistä,praesens,ich,Läpäisen kokeen.,Ich bestehe die Prüfung.,Ich {finite} die Prüfung.,bestehe,,määräinen artikkeli
+47,47,gelingen,onnistua,praesens,er,Se onnistuu minulle.,Das gelingt mir.,Das {finite} mir.,gelingt,,
+48,40,schließen,sulkea,praesens,ich,Suljen oven.,Ich schließe die Tür.,Ich {finite} die Tür.,schließe,,määräinen artikkeli
+49,45,treten,astua,praesens,ich,Astun lavalle.,Ich trete auf die Bühne.,Ich {finite} auf die Bühne.,trete,,määräinen artikkeli
+50,49,kennen,tuntea; olla tuttu,praesens,ich,Tunnen hänet.,Ich kenne ihn.,Ich {finite} ihn.,kenne,,
+51,48,schlagen,lyödä,praesens,ich,Lyön palloa.,Ich schlage den Ball.,Ich {finite} den Ball.,schlage,,määräinen artikkeli
+52,1009,verlassen,jättää; poistua,praesens,ich,Lähden talosta.,Ich verlasse das Haus.,Ich {finite} das Haus.,verlasse,,määräinen artikkeli
+53,51,bitten,pyytää,praesens,ich,Pyydän apua.,Ich bitte um Hilfe.,Ich {finite} um Hilfe.,bitte,,
+54,53,sitzen,istua,praesens,ich,Istun täällä.,Ich sitze hier.,Ich {finite} hier.,sitze,,
+55,50,werfen,heittää,praesens,ich,Heitän pallon.,Ich werfe den Ball.,Ich {finite} den Ball.,werfe,,määräinen artikkeli
+56,52,sterben,kuolla,praesens,er,Kasvi kuolee.,Die Pflanze stirbt.,Die Pflanze {finite}.,stirbt,,määräinen artikkeli
+57,1014,geraten,joutua,praesens,ich,Joudun vaikeuksiin.,Ich gerate in Schwierigkeiten.,Ich {finite} in Schwierigkeiten.,gerate,,
+58,1002,verstehen,ymmärtää,praesens,ich,Ymmärrän kysymyksen.,Ich verstehe die Frage.,Ich {finite} die Frage.,verstehe,,määräinen artikkeli
+59,58,rufen,kutsua paikalle,praesens,ich,Kutsun ystäväni paikalle.,Ich rufe meinen Freund.,Ich {finite} meinen Freund.,rufe,,
+60,59,wachsen,kasvaa,praesens,er,Lapsi kasvaa nopeasti.,Das Kind wächst schnell.,Das Kind {finite} schnell.,wächst,,määräinen artikkeli
+61,56,greifen,tarttua,praesens,ich,Tartun lasiin.,Ich greife nach dem Glas.,Ich {finite} nach dem Glas.,greife,,määräinen artikkeli
+62,61,raten,neuvoa; arvata,praesens,ich,Neuvon sinua.,Ich rate dir.,Ich {finite} dir.,rate,,
+63,55,laden,"ladata, kuormata",praesens,ich,Lastaan auton.,Ich lade das Auto.,Ich {finite} das Auto.,lade,,määräinen artikkeli
+64,1010,erfahren,saada tietää; kokea,praesens,ich,Saan tietää totuuden.,Ich erfahre die Wahrheit.,Ich {finite} die Wahrheit.,erfahre,,määräinen artikkeli
+65,57,lesen,lukea,praesens,ich,Luen kirjaa.,Ich lese ein Buch.,Ich {finite} ein Buch.,lese,,epämääräinen artikkeli
+66,1007,anbieten,tarjota,praesens,ich,Tarjoan sinulle apua.,Ich biete dir Hilfe an.,Ich {finite} dir Hilfe an.,biete,,
+67,65,sinken,painua alaspäin,praesens,er,Laiva painuu pinnan alle.,Das Schiff sinkt.,Das Schiff {finite}.,sinkt,,määräinen artikkeli
+68,66,hängen,roikkua; riippua,praesens,er,Taulu roikkuu siellä.,Das Bild hängt dort.,Das Bild {finite} dort.,hängt,,määräinen artikkeli
+69,1018,versprechen,luvata,praesens,ich,Lupaan sinulle apua.,Ich verspreche dir Hilfe.,Ich {finite} dir Hilfe.,verspreche,,
+70,1019,beschreiben,"kuvata, selostaa, luonnehtia",praesens,ich,Kuvaan reitin.,Ich beschreibe den Weg.,Ich {finite} den Weg.,beschreibe,,määräinen artikkeli
+71,72,brechen,rikkoa; murtaa,praesens,ich,Murran leivän.,Ich breche das Brot.,Ich {finite} das Brot.,breche,,määräinen artikkeli
+72,75,stoßen,työntää; sysätä,praesens,ich,Työnnän ovea.,Ich stoße die Tür.,Ich {finite} die Tür.,stoße,,määräinen artikkeli
+73,70,empfehlen,suositella,praesens,ich,Suosittelen kirjaa.,Ich empfehle das Buch.,Ich {finite} das Buch.,empfehle,,määräinen artikkeli
+74,67,mögen,pitää; tykätä,praesens,ich,Pidän kahvista.,Ich mag Kaffee.,Ich {finite} Kaffee.,mag,,
+75,69,fliegen,lentää,praesens,ich,Lennän Saksaan.,Ich fliege nach Deutschland.,Ich {finite} nach Deutschland.,fliege,,
+76,71,genießen,nauttia,praesens,ich,Nautin lomasta.,Ich genieße den Urlaub.,Ich {finite} den Urlaub.,genieße,,määräinen artikkeli
+77,77,leiden,kärsiä,praesens,ich,Kärsin päänsärystä.,Ich leide an Kopfschmerzen.,Ich {finite} an Kopfschmerzen.,leide,,
+78,1013,stattfinden,tapahtua; toteutua,praesens,er,Tapaaminen pidetään täällä.,Das Treffen findet hier statt.,Das Treffen {finite} hier statt.,findet,,määräinen artikkeli
+79,1021,verbringen,viettää,praesens,ich,Vietän kesän täällä.,Ich verbringe den Sommer hier.,Ich {finite} den Sommer hier.,verbringe,,määräinen artikkeli
+80,109,vermeiden,välttää,praesens,ich,Vältän stressiä.,Ich vermeide Stress.,Ich {finite} Stress.,vermeide,,
+81,82,verschwinden,"kadota, hävitä, poistua",praesens,er,Koira katoaa.,Der Hund verschwindet.,Der Hund {finite}.,verschwindet,,määräinen artikkeli
+82,1012,teilnehmen,osallistua,praesens,ich,Osallistun kurssille.,Ich nehme am Kurs teil.,Ich {finite} am Kurs teil.,nehme,,määräinen artikkeli
+83,1024,annehmen,olettaa,praesens,ich,Oletan niin.,Ich nehme das an.,Ich {finite} das an.,nehme,,
+84,88,vergessen,unohtaa,praesens,ich,Unohdan nimen.,Ich vergesse den Namen.,Ich {finite} den Namen.,vergesse,,määräinen artikkeli
+85,90,singen,laulaa,praesens,ich,Laulan laulun.,Ich singe ein Lied.,Ich {finite} ein Lied.,singe,,epämääräinen artikkeli
+86,92,fangen,ottaa kiinni; pyydystää,praesens,ich,Otan pallon kiinni.,Ich fange den Ball.,Ich {finite} den Ball.,fange,,määräinen artikkeli
+87,1025,ankommen,saapua,praesens,ich,Saavun asemalle.,Ich komme am Bahnhof an.,Ich {finite} am Bahnhof an.,komme,,määräinen artikkeli
+88,54,essen,syödä,praesens,ich,Syön leipää.,Ich esse Brot.,Ich {finite} Brot.,esse,,
+89,94,trinken,juoda,praesens,ich,Juon vettä.,Ich trinke Wasser.,Ich {finite} Wasser.,trinke,,
+90,1006,anfangen,aloittaa,praesens,ich,Aloitan työn.,Ich fange mit der Arbeit an.,Ich {finite} mit der Arbeit an.,fange,,määräinen artikkeli
+91,100,schlafen,nukkua,praesens,ich,Nukun pitkään.,Ich schlafe lange.,Ich {finite} lange.,schlafe,,
+92,79,schneiden,leikata,praesens,ich,Leikkaan leivän.,Ich schneide das Brot.,Ich {finite} das Brot.,schneide,,määräinen artikkeli
+93,1028,einsteigen,astua kyytiin,praesens,ich,Astun junaan.,Ich steige in den Zug ein.,Ich {finite} in den Zug ein.,steige,,määräinen artikkeli
+94,103,schwimmen,uida,praesens,ich,Uin mielelläni.,Ich schwimme gern.,Ich {finite} gern.,schwimme,,
+95,1026,anrufen,soittaa,praesens,ich,Soitan sinulle.,Ich rufe dich an.,Ich {finite} dich an.,rufe,,
+96,1029,aussteigen,poistua kyydistä,praesens,ich,Poistun bussista.,Ich steige aus dem Bus aus.,Ich {finite} aus dem Bus aus.,steige,,määräinen artikkeli
+97,116,waschen,pestä,praesens,ich,Pesen käteni.,Ich wasche meine Hände.,Ich {finite} meine Hände.,wasche,,
+98,1027,aufstehen,nousta ylös,praesens,ich,Nousen aikaisin.,Ich stehe früh auf.,Ich {finite} früh auf.,stehe,,
+99,1030,umsteigen,"vaihtaa kulkuneuvoa, vaihtaa toiseen yhteyteen",praesens,ich,Vaihdan junaa Kölnissä.,Ich steige in Köln um.,Ich {finite} in Köln um.,steige,,
+100,127,leihen,lainata; antaa lainaksi,praesens,ich,Lainaan rahaa.,Ich leihe Geld.,Ich {finite} Geld.,leihe,,

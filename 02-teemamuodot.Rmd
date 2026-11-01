@@ -1,0 +1,17 @@
+# (PART) Taivutusharjoitukset {-}
+
+# Teemamuodot {#teemamuodot}
+
+Kirjoita infinitiivi, preesensin ja imperfektin yksikön kolmas persoona sekä perfekti. Esimerkiksi: `werden wird wurde ist geworden`. Erota muodot välilyönneillä tai sarkaimilla.
+
+```{r teemamuodot-data, echo=FALSE, results="asis"}
+emit_heart_data()
+```
+
+```{r teemamuodot-widget, echo=FALSE}
+htmltools::includeHTML("www/drill-widget.html")
+```
+
+```{r teemamuodot-scripts, echo=FALSE}
+drill_scripts("heart")
+```

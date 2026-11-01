@@ -1,0 +1,15 @@
+# Imperfekti {#lauseet-imperfekti}
+
+Täydennä saksankielisen lauseen puuttuva Präteritum-muoto. Suomenkielinen lause kertoo merkityksen. Kirjoita vain puuttuvat verbiosat.
+
+```{r lauseet-imperfekti-data, echo=FALSE, results="asis"}
+emit_sentence_data()
+```
+
+```{r lauseet-imperfekti-widget, echo=FALSE}
+drill_widget("www/drill-sentence-widget.html", "praeteritum", "Lauseet: imperfekti")
+```
+
+```{r lauseet-imperfekti-scripts, echo=FALSE}
+drill_scripts("sentence")
+```

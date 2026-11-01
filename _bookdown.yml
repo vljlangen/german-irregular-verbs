@@ -1,0 +1,20 @@
+book_filename: "german-drillers"
+delete_merged_file: true
+rmd_files:
+  - "index.Rmd"
+  - "01-epasaannolliset_verbit.Rmd"
+  - "01b-modaaliverbit.Rmd"
+  - "01c-sein.Rmd"
+  - "02-teemamuodot.Rmd"
+  - "03-taivutus-preesens.Rmd"
+  - "04-taivutus-imperfekti.Rmd"
+  - "05-taivutus-perfekti.Rmd"
+  - "06-lauseet-preesens.Rmd"
+  - "07-lauseet-imperfekti.Rmd"
+  - "08-lauseet-perfekti.Rmd"
+  - "09-kokonaiset-lauseet-preesens.Rmd"
+  - "10-kokonaiset-lauseet-imperfekti.Rmd"
+  - "11-kokonaiset-lauseet-perfekti.Rmd"
+language:
+  label:
+    tab: "Taulukko "

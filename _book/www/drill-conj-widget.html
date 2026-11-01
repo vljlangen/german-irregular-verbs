@@ -1,0 +1,36 @@
+<div class="drill-conj" data-tense="__TENSE__">
+  <h4>__TITLE__</h4>
+  <div class="drill-setup drill-panel active">
+    <p>Valitse harjoiteltava sijaväli (10 sanaa per erä). Harjoitus kysyy <strong>30</strong> eri muotoa (jokainen sana + persoona vain kerran).</p>
+    <div class="drill-ranges"></div>
+  </div>
+  <div class="drill-run drill-panel">
+    <div class="drill-progress"></div>
+    <div class="drill-prompt drill-conj-cloze">
+      <div class="drill-conj-meta">
+        <span class="drill-conj-lemma"></span>
+      </div>
+      <div class="drill-cloze-line">
+        <span class="drill-cloze-person"></span>
+        <input type="text" class="drill-answer drill-cloze-input" autocomplete="off" spellcheck="false"
+               aria-label="saksalainen taivutusmuoto" />
+      </div>
+    </div>
+    <div class="drill-feedback drill-hidden"></div>
+    <div class="drill-actions">
+      <button type="button" class="drill-submit primary">Tarkista</button>
+      <button type="button" class="drill-stop danger">Lopeta harjoitus</button>
+    </div>
+  </div>
+  <div class="drill-done drill-panel">
+    <div class="drill-summary">
+      <h4>Yhteenveto</h4>
+      <div class="drill-summary-text"></div>
+    </div>
+    <div class="drill-actions">
+      <button type="button" class="drill-restart">Valitse uusi väli</button>
+      <button type="button" class="drill-download-log">Lataa loki (CSV)</button>
+    </div>
+    <p class="drill-log-note">Lataa harjoitusloki painikkeesta harjoituksen jälkeen (CSV, päivämäärä ja kellonaika tiedostonimessä).</p>
+  </div>
+</div>

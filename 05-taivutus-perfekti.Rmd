@@ -1,0 +1,15 @@
+# Perfekti {#taivutus-perfekti}
+
+Kirjoita apuverbi ja partisiippi pyydetyssä persoonassa. Esimerkiksi: **nähdä · ich → habe gesehen**.
+
+```{r taivutus-perfekti-data, echo=FALSE, results="asis"}
+emit_conj_data()
+```
+
+```{r taivutus-perfekti-widget, echo=FALSE}
+drill_widget("www/drill-conj-widget.html", "perfect", "Perfekti")
+```
+
+```{r taivutus-perfekti-scripts, echo=FALSE}
+drill_scripts("conj")
+```

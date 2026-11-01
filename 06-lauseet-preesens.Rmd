@@ -1,0 +1,17 @@
+# (PART) Täydennä lauseet {-}
+
+# Preesens {#lauseet-preesens}
+
+Täydennä saksankielisen lauseen puuttuva preesensmuoto. Suomenkielinen lause kertoo merkityksen. Kirjoita vain puuttuvat verbiosat.
+
+```{r lauseet-preesens-data, echo=FALSE, results="asis"}
+emit_sentence_data()
+```
+
+```{r lauseet-preesens-widget, echo=FALSE}
+drill_widget("www/drill-sentence-widget.html", "praesens", "Lauseet: preesens")
+```
+
+```{r lauseet-preesens-scripts, echo=FALSE}
+drill_scripts("sentence")
+```

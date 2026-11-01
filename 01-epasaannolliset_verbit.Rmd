@@ -1,0 +1,56 @@
+# (PART) Taulukot {-}
+
+# Verbien teemamuodot {#verbiluettelo}
+
+Tähän taulukkoon olen valinnut 100 tärkeäksi katsomaani saksan kielen epäsäännöllistä verbiä. Verbit on järjestetty yleisyyden perusteella.
+
+Saksan verbeistä kannattaa opetella niin sanotut **teemamuodot**. Niiden ja taivutussääntöjen avulla voi muodostaa suuren osan verbin muista taivutusmuodoista. Erityisesti [**modaaliverbien**](#modaaliverbit) ja [**sein-verbin**](#sein) persoonataivutukset kannattaa opetella kokonaisuudessaan.
+
+<br>
+
+```{r heart-verbs, echo=FALSE, warning=FALSE, message=FALSE}
+# UTF-8 locale required so knitr/kable print ä, ö, ü, ß correctly (not as <U+00XX>)
+for (loc in c("en_US.UTF-8", "C.UTF-8", "en_US.utf8")) {
+  if (!is.na(Sys.setlocale("LC_CTYPE", loc))) break
+}
+
+library(readr)
+library(dplyr)
+library(kableExtra)
+library(htmltools)
+
+verbs_heart <- read_csv(
+  "saksa_epasaannolliset_verbit_ranked.csv",
+  show_col_types = FALSE,
+  locale = locale(encoding = "UTF-8")
+) |>
+  transmute(
+    Sija = rank,
+    Infinitiivi = infinitive,
+    `Präsens (3. pers.)` = praesens,
+    `Präteritum (3. pers.)` = praeteritum,
+    Perfekt = perfekt,
+    Suomi = suomi
+  )
+
+verbs_heart[] <- lapply(verbs_heart, function(x) {
+  if (is.character(x)) gsub("|", " / ", x, fixed = TRUE) else x
+})
+
+knitr::kable(
+  verbs_heart,
+  format = "html",
+  escape = FALSE,
+  align = c("r", "l", "l", "l", "l", "l"),
+  caption = HTML(
+    "Ep&auml;s&auml;&auml;nn&ouml;llisten verbien teemamuodot yleisyysj&auml;rjestyksess&auml;."
+  )
+) |>
+  kable_styling(
+    bootstrap_options = c("striped", "hover", "condensed"),
+    full_width = TRUE,
+    font_size = 13
+  ) |>
+  column_spec(1, bold = TRUE, width = "4em") |>
+  scroll_box(height = "600px")
+```

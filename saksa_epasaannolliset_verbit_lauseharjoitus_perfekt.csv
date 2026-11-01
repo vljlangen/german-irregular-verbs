@@ -1,0 +1,101 @@
+﻿rank,source_rank,infinitive,suomi,tense,person,sentence_fi,sentence_de,cloze_de,answer_finite,answer_tail,article_hint
+1,1001,sein,olla,perfekt,ich,Olen ollut kotona.,Ich bin zu Hause gewesen.,Ich {finite} zu Hause {tail}.,bin,gewesen,
+2,1,werden,tulla joksikin; muuttua,perfekt,ich,Minusta on tullut väsynyt.,Ich bin müde geworden.,Ich {finite} müde {tail}.,bin,geworden,
+3,2,haben,omistaa; olla jonkun hallussa,perfekt,ich,Minulla on ollut aikaa.,Ich habe Zeit gehabt.,Ich {finite} Zeit {tail}.,habe,gehabt,
+4,3,können,kyetä,perfekt,ich,Olen kyennyt uimaan.,Ich habe schwimmen können.,Ich {finite} {tail}.,habe,schwimmen können,
+5,5,sollen,pitää; olla määrä tehdä,perfekt,ich,Minun on pitänyt opiskella.,Ich habe lernen sollen.,Ich {finite} {tail}.,habe,lernen sollen,
+6,4,geben,antaa,perfekt,ich,Olen antanut sinulle vettä.,Ich habe dir Wasser gegeben.,Ich {finite} dir Wasser {tail}.,habe,gegeben,
+7,6,müssen,täytyä; olla pakko,perfekt,ich,Minun on täytynyt työskennellä.,Ich habe arbeiten müssen.,Ich {finite} {tail}.,habe,arbeiten müssen,
+8,7,kommen,tulla,perfekt,ich,Olen tullut ajoissa.,Ich bin rechtzeitig gekommen.,Ich {finite} rechtzeitig {tail}.,bin,gekommen,
+9,8,gehen,mennä; kulkea jalan,perfekt,ich,Olen mennyt kotiin.,Ich bin nach Hause gegangen.,Ich {finite} nach Hause {tail}.,bin,gegangen,
+10,9,wollen,haluta; tahtoa,perfekt,ich,Olen halunnut nukkua.,Ich habe schlafen wollen.,Ich {finite} {tail}.,habe,schlafen wollen,
+11,10,stehen,seisoa,perfekt,ich,Olen seissyt täällä.,Ich habe hier gestanden.,Ich {finite} hier {tail}.,habe,gestanden,
+12,11,sehen,nähdä,perfekt,ich,Olen nähnyt auton.,Ich habe ein Auto gesehen.,Ich {finite} ein Auto {tail}.,habe,gesehen,epämääräinen artikkeli
+13,12,bleiben,pysyä; jäädä,perfekt,ich,Olen jäänyt kotiin.,Ich bin zu Hause geblieben.,Ich {finite} zu Hause {tail}.,bin,geblieben,
+14,13,lassen,sallia; antaa tehdä,perfekt,ich,Olen jättänyt ikkunan auki.,Ich habe das Fenster offen gelassen.,Ich {finite} das Fenster offen {tail}.,habe,gelassen,määräinen artikkeli
+15,14,finden,löytää,perfekt,ich,Olen löytänyt avaimen.,Ich habe den Schlüssel gefunden.,Ich {finite} den Schlüssel {tail}.,habe,gefunden,määräinen artikkeli
+16,15,liegen,maata; sijaita,perfekt,er,Kirja on ollut täällä.,Das Buch hat hier gelegen.,Das Buch {finite} hier {tail}.,hat,gelegen,määräinen artikkeli
+17,16,bringen,tuoda,perfekt,ich,Olen tuonut leipää.,Ich habe Brot gebracht.,Ich {finite} Brot {tail}.,habe,gebracht,
+18,17,nehmen,ottaa,perfekt,ich,Olen ottanut bussin.,Ich habe den Bus genommen.,Ich {finite} den Bus {tail}.,habe,genommen,määräinen artikkeli
+19,20,halten,pitää; pidellä,perfekt,ich,Olen pitänyt ovea.,Ich habe die Tür gehalten.,Ich {finite} die Tür {tail}.,habe,gehalten,määräinen artikkeli
+20,18,sprechen,puhua,perfekt,ich,Olen puhunut saksaa.,Ich habe Deutsch gesprochen.,Ich {finite} Deutsch {tail}.,habe,gesprochen,
+21,21,heißen,olla nimeltään,perfekt,ich,Nimeni on ollut Anna.,Ich habe Anna geheißen.,Ich {finite} Anna {tail}.,habe,geheißen,
+22,22,gelten,olla voimassa,perfekt,er,Lippu on ollut voimassa.,Das Ticket hat gegolten.,Das Ticket {finite} {tail}.,hat,gegolten,määräinen artikkeli
+23,25,dürfen,olla lupa; saada tehdä,perfekt,ich,Olen saanut mennä.,Ich habe gehen dürfen.,Ich {finite} {tail}.,habe,gehen dürfen,
+24,19,treffen,tavata; kohdata,perfekt,ich,Olen tavannut ystäväni.,Ich habe meinen Freund getroffen.,Ich {finite} meinen Freund {tail}.,habe,getroffen,
+25,26,bieten,tarjota,perfekt,wir,Olemme tarjonneet apua.,Wir haben Hilfe geboten.,Wir {finite} Hilfe {tail}.,haben,geboten,
+26,24,wissen,tietää,perfekt,ich,Olen tiennyt sen.,Ich habe das gewusst.,Ich {finite} das {tail}.,habe,gewusst,
+27,1004,erhalten,saada; säilyttää,perfekt,ich,Olen saanut vastauksen.,Ich habe eine Antwort erhalten.,Ich {finite} eine Antwort {tail}.,habe,erhalten,epämääräinen artikkeli
+28,1008,bekommen,saada,perfekt,ich,Olen saanut lahjan.,Ich habe ein Geschenk bekommen.,Ich {finite} ein Geschenk {tail}.,habe,bekommen,epämääräinen artikkeli
+29,28,ziehen,vetää,perfekt,ich,Olen vetänyt pöytää.,Ich habe den Tisch gezogen.,Ich {finite} den Tisch {tail}.,habe,gezogen,määräinen artikkeli
+30,30,laufen,juosta,perfekt,ich,Olen juossut puistossa.,Ich bin im Park gelaufen.,Ich {finite} im Park {tail}.,bin,gelaufen,määräinen artikkeli
+31,23,tun,tehdä,perfekt,ich,Olen tehnyt paljon.,Ich habe viel getan.,Ich {finite} viel {tail}.,habe,getan,
+32,33,fallen,pudota; kaatua,perfekt,er,Lasi on pudonnut maahan.,Das Glas ist zu Boden gefallen.,Das Glas {finite} zu Boden {tail}.,ist,gefallen,määräinen artikkeli
+33,27,schreiben,kirjoittaa,perfekt,ich,Olen kirjoittanut sähköpostin.,Ich habe eine E-Mail geschrieben.,Ich {finite} eine E-Mail {tail}.,habe,geschrieben,epämääräinen artikkeli
+34,34,beginnen,alkaa,perfekt,ich,Olen aloittanut työn.,Ich habe die Arbeit begonnen.,Ich {finite} die Arbeit {tail}.,habe,begonnen,määräinen artikkeli
+35,37,steigen,nousta; kohota,perfekt,ich,Olen noussut portaita.,Ich bin die Treppe hinaufgestiegen.,Ich {finite} die Treppe {tail}.,bin,hinaufgestiegen,määräinen artikkeli
+36,31,fahren,matkustaa; kulkea ajoneuvolla,perfekt,ich,Olen matkustanut Turkuun.,Ich bin nach Turku gefahren.,Ich {finite} nach Turku {tail}.,bin,gefahren,
+37,35,verlieren,menettää; kadottaa,perfekt,ich,Olen kadottanut puhelimeni.,Ich habe mein Handy verloren.,Ich {finite} mein Handy {tail}.,habe,verloren,
+38,36,gewinnen,voittaa; saada voitoksi,perfekt,ich,Olen voittanut pelin.,Ich habe das Spiel gewonnen.,Ich {finite} das Spiel {tail}.,habe,gewonnen,määräinen artikkeli
+39,1005,entscheiden,ratkaista; päättää,perfekt,ich,Olen ratkaissut riidan.,Ich habe den Streit entschieden.,Ich {finite} den Streit {tail}.,habe,entschieden,määräinen artikkeli
+40,38,helfen,auttaa,perfekt,ich,Olen auttanut äitiäni.,Ich habe meiner Mutter geholfen.,Ich {finite} meiner Mutter {tail}.,habe,geholfen,
+41,1011,entstehen,syntyä; muodostua,perfekt,er,Ongelma on syntynyt.,Ein Problem ist entstanden.,Ein Problem {finite} {tail}.,ist,entstanden,epämääräinen artikkeli
+42,41,tragen,"kantaa, pitää yllään, sietää",perfekt,ich,Olen kantanut laukkua.,Ich habe eine Tasche getragen.,Ich {finite} eine Tasche {tail}.,habe,getragen,epämääräinen artikkeli
+43,44,denken,ajatella,perfekt,ich,Olen ajatellut sinua.,Ich habe an dich gedacht.,Ich {finite} an dich {tail}.,habe,gedacht,
+44,42,nennen,nimetä; kutsua nimellä,perfekt,ich,Olen kutsunut häntä Maxiksi.,Ich habe ihn Max genannt.,Ich {finite} ihn Max {tail}.,habe,genannt,
+45,43,scheinen,näyttää joltakin; loistaa,perfekt,er,Aurinko on paistanut.,Die Sonne hat geschienen.,Die Sonne {finite} {tail}.,hat,geschienen,määräinen artikkeli
+46,1003,bestehen,olla olemassa; läpäistä,perfekt,ich,Olen läpäissyt kokeen.,Ich habe die Prüfung bestanden.,Ich {finite} die Prüfung {tail}.,habe,bestanden,määräinen artikkeli
+47,47,gelingen,onnistua,perfekt,er,Se on onnistunut minulle.,Das ist mir gelungen.,Das {finite} mir {tail}.,ist,gelungen,
+48,40,schließen,sulkea,perfekt,ich,Olen sulkenut oven.,Ich habe die Tür geschlossen.,Ich {finite} die Tür {tail}.,habe,geschlossen,määräinen artikkeli
+49,45,treten,astua,perfekt,ich,Olen astunut lavalle.,Ich bin auf die Bühne getreten.,Ich {finite} auf die Bühne {tail}.,bin,getreten,määräinen artikkeli
+50,49,kennen,tuntea; olla tuttu,perfekt,ich,Olen tuntenut hänet.,Ich habe ihn gekannt.,Ich {finite} ihn {tail}.,habe,gekannt,
+51,48,schlagen,lyödä,perfekt,ich,Olen lyönyt palloa.,Ich habe den Ball geschlagen.,Ich {finite} den Ball {tail}.,habe,geschlagen,määräinen artikkeli
+52,1009,verlassen,jättää; poistua,perfekt,ich,Olen lähtenyt talosta.,Ich habe das Haus verlassen.,Ich {finite} das Haus {tail}.,habe,verlassen,määräinen artikkeli
+53,51,bitten,pyytää,perfekt,ich,Olen pyytänyt apua.,Ich habe um Hilfe gebeten.,Ich {finite} um Hilfe {tail}.,habe,gebeten,
+54,53,sitzen,istua,perfekt,ich,Olen istunut täällä.,Ich habe hier gesessen.,Ich {finite} hier {tail}.,habe,gesessen,
+55,50,werfen,heittää,perfekt,ich,Olen heittänyt pallon.,Ich habe den Ball geworfen.,Ich {finite} den Ball {tail}.,habe,geworfen,määräinen artikkeli
+56,52,sterben,kuolla,perfekt,er,Kasvi on kuollut.,Die Pflanze ist gestorben.,Die Pflanze {finite} {tail}.,ist,gestorben,määräinen artikkeli
+57,1014,geraten,joutua,perfekt,ich,Olen joutunut vaikeuksiin.,Ich bin in Schwierigkeiten geraten.,Ich {finite} in Schwierigkeiten {tail}.,bin,geraten,
+58,1002,verstehen,ymmärtää,perfekt,ich,Olen ymmärtänyt kysymyksen.,Ich habe die Frage verstanden.,Ich {finite} die Frage {tail}.,habe,verstanden,määräinen artikkeli
+59,58,rufen,kutsua paikalle,perfekt,ich,Olen kutsunut ystäväni paikalle.,Ich habe meinen Freund gerufen.,Ich {finite} meinen Freund {tail}.,habe,gerufen,
+60,59,wachsen,kasvaa,perfekt,er,Lapsi on kasvanut nopeasti.,Das Kind ist schnell gewachsen.,Das Kind {finite} schnell {tail}.,ist,gewachsen,määräinen artikkeli
+61,56,greifen,tarttua,perfekt,ich,Olen tarttunut lasiin.,Ich habe nach dem Glas gegriffen.,Ich {finite} nach dem Glas {tail}.,habe,gegriffen,määräinen artikkeli
+62,61,raten,neuvoa; arvata,perfekt,ich,Olen neuvonut sinua.,Ich habe dir geraten.,Ich {finite} dir {tail}.,habe,geraten,
+63,55,laden,"ladata, kuormata",perfekt,ich,Olen lastannut auton.,Ich habe das Auto geladen.,Ich {finite} das Auto {tail}.,habe,geladen,määräinen artikkeli
+64,1010,erfahren,saada tietää; kokea,perfekt,ich,Olen saanut tietää totuuden.,Ich habe die Wahrheit erfahren.,Ich {finite} die Wahrheit {tail}.,habe,erfahren,määräinen artikkeli
+65,57,lesen,lukea,perfekt,ich,Olen lukenut kirjaa.,Ich habe ein Buch gelesen.,Ich {finite} ein Buch {tail}.,habe,gelesen,epämääräinen artikkeli
+66,1007,anbieten,tarjota,perfekt,ich,Olen tarjonnut sinulle apua.,Ich habe dir Hilfe angeboten.,Ich {finite} dir Hilfe {tail}.,habe,angeboten,
+67,65,sinken,painua alaspäin,perfekt,er,Laiva on painunut pinnan alle.,Das Schiff ist gesunken.,Das Schiff {finite} {tail}.,ist,gesunken,määräinen artikkeli
+68,66,hängen,roikkua; riippua,perfekt,er,Taulu on roikkunut siellä.,Das Bild hat dort gehangen.,Das Bild {finite} dort {tail}.,hat,gehangen,määräinen artikkeli
+69,1018,versprechen,luvata,perfekt,ich,Olen luvannut sinulle apua.,Ich habe dir Hilfe versprochen.,Ich {finite} dir Hilfe {tail}.,habe,versprochen,
+70,1019,beschreiben,"kuvata, selostaa, luonnehtia",perfekt,ich,Olen kuvannut reitin.,Ich habe den Weg beschrieben.,Ich {finite} den Weg {tail}.,habe,beschrieben,määräinen artikkeli
+71,72,brechen,rikkoa; murtaa,perfekt,ich,Olen murtanut leivän.,Ich habe das Brot gebrochen.,Ich {finite} das Brot {tail}.,habe,gebrochen,määräinen artikkeli
+72,75,stoßen,työntää; sysätä,perfekt,ich,Olen työntänyt ovea.,Ich habe die Tür gestoßen.,Ich {finite} die Tür {tail}.,habe,gestoßen,määräinen artikkeli
+73,70,empfehlen,suositella,perfekt,ich,Olen suositellut kirjaa.,Ich habe das Buch empfohlen.,Ich {finite} das Buch {tail}.,habe,empfohlen,määräinen artikkeli
+74,67,mögen,pitää; tykätä,perfekt,ich,Olen pitänyt kahvista.,Ich habe Kaffee gemocht.,Ich {finite} Kaffee {tail}.,habe,gemocht,
+75,69,fliegen,lentää,perfekt,ich,Olen lentänyt Saksaan.,Ich bin nach Deutschland geflogen.,Ich {finite} nach Deutschland {tail}.,bin,geflogen,
+76,71,genießen,nauttia,perfekt,ich,Olen nauttinut lomasta.,Ich habe den Urlaub genossen.,Ich {finite} den Urlaub {tail}.,habe,genossen,määräinen artikkeli
+77,77,leiden,kärsiä,perfekt,ich,Olen kärsinyt päänsärystä.,Ich habe an Kopfschmerzen gelitten.,Ich {finite} an Kopfschmerzen {tail}.,habe,gelitten,
+78,1013,stattfinden,tapahtua; toteutua,perfekt,er,Tapaaminen on pidetty täällä.,Das Treffen hat hier stattgefunden.,Das Treffen {finite} hier {tail}.,hat,stattgefunden,määräinen artikkeli
+79,1021,verbringen,viettää,perfekt,ich,Olen viettänyt kesän täällä.,Ich habe den Sommer hier verbracht.,Ich {finite} den Sommer hier {tail}.,habe,verbracht,määräinen artikkeli
+80,109,vermeiden,välttää,perfekt,ich,Olen välttänyt stressiä.,Ich habe Stress vermieden.,Ich {finite} Stress {tail}.,habe,vermieden,
+81,82,verschwinden,"kadota, hävitä, poistua",perfekt,er,Koira on kadonnut.,Der Hund ist verschwunden.,Der Hund {finite} {tail}.,ist,verschwunden,määräinen artikkeli
+82,1012,teilnehmen,osallistua,perfekt,ich,Olen osallistunut kurssille.,Ich habe am Kurs teilgenommen.,Ich {finite} am Kurs {tail}.,habe,teilgenommen,määräinen artikkeli
+83,1024,annehmen,olettaa,perfekt,ich,Olen olettanut niin.,Ich habe das angenommen.,Ich {finite} das {tail}.,habe,angenommen,
+84,88,vergessen,unohtaa,perfekt,ich,Olen unohtanut nimen.,Ich habe den Namen vergessen.,Ich {finite} den Namen {tail}.,habe,vergessen,määräinen artikkeli
+85,90,singen,laulaa,perfekt,ich,Olen laulanut laulun.,Ich habe ein Lied gesungen.,Ich {finite} ein Lied {tail}.,habe,gesungen,epämääräinen artikkeli
+86,92,fangen,ottaa kiinni; pyydystää,perfekt,ich,Olen ottanut pallon kiinni.,Ich habe den Ball gefangen.,Ich {finite} den Ball {tail}.,habe,gefangen,määräinen artikkeli
+87,1025,ankommen,saapua,perfekt,ich,Olen saapunut asemalle.,Ich bin am Bahnhof angekommen.,Ich {finite} am Bahnhof {tail}.,bin,angekommen,määräinen artikkeli
+88,54,essen,syödä,perfekt,ich,Olen syönyt leipää.,Ich habe Brot gegessen.,Ich {finite} Brot {tail}.,habe,gegessen,
+89,94,trinken,juoda,perfekt,ich,Olen juonut vettä.,Ich habe Wasser getrunken.,Ich {finite} Wasser {tail}.,habe,getrunken,
+90,1006,anfangen,aloittaa,perfekt,ich,Olen aloittanut työn.,Ich habe mit der Arbeit angefangen.,Ich {finite} mit der Arbeit {tail}.,habe,angefangen,määräinen artikkeli
+91,100,schlafen,nukkua,perfekt,ich,Olen nukkunut pitkään.,Ich habe lange geschlafen.,Ich {finite} lange {tail}.,habe,geschlafen,
+92,79,schneiden,leikata,perfekt,ich,Olen leikannut leivän.,Ich habe das Brot geschnitten.,Ich {finite} das Brot {tail}.,habe,geschnitten,määräinen artikkeli
+93,1028,einsteigen,astua kyytiin,perfekt,ich,Olen astunut junaan.,Ich bin in den Zug eingestiegen.,Ich {finite} in den Zug {tail}.,bin,eingestiegen,määräinen artikkeli
+94,103,schwimmen,uida,perfekt,ich,Olen uinut mielelläni.,Ich bin gern geschwommen.,Ich {finite} gern {tail}.,bin,geschwommen,
+95,1026,anrufen,soittaa,perfekt,ich,Olen soittanut sinulle.,Ich habe dich angerufen.,Ich {finite} dich {tail}.,habe,angerufen,
+96,1029,aussteigen,poistua kyydistä,perfekt,ich,Olen poistunut bussista.,Ich bin aus dem Bus ausgestiegen.,Ich {finite} aus dem Bus {tail}.,bin,ausgestiegen,määräinen artikkeli
+97,116,waschen,pestä,perfekt,ich,Olen pessyt käteni.,Ich habe meine Hände gewaschen.,Ich {finite} meine Hände {tail}.,habe,gewaschen,
+98,1027,aufstehen,nousta ylös,perfekt,ich,Olen noussut aikaisin.,Ich bin früh aufgestanden.,Ich {finite} früh {tail}.,bin,aufgestanden,
+99,1030,umsteigen,"vaihtaa kulkuneuvoa, vaihtaa toiseen yhteyteen",perfekt,ich,Olen vaihtanut junaa Kölnissä.,Ich bin in Köln umgestiegen.,Ich {finite} in Köln {tail}.,bin,umgestiegen,
+100,127,leihen,lainata; antaa lainaksi,perfekt,ich,Olen lainannut rahaa.,Ich habe Geld geliehen.,Ich {finite} Geld {tail}.,habe,geliehen,
