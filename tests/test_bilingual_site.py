@@ -43,7 +43,13 @@ class BilingualTests(unittest.TestCase):
                     if '://' not in href:
                         self.assertTrue((directory / href).exists(), (language, page, href))
                 if language == 'en':
-                    parser = Visible(); parser.feed(html)
+                    # The English homepage intentionally includes a Finnish language-switch prompt.
+                    language_prompt = re.search(r'<p class="site-language-prompt" lang="fi">.*?</p>', html, re.S)
+                    if page == 'index':
+                        self.assertIsNotNone(language_prompt)
+                        self.assertIn('href="../index.html"', language_prompt.group())
+                        self.assertIn('🇫🇮', language_prompt.group())
+                    parser = Visible(); parser.feed(re.sub(r'<p class="site-language-prompt" lang="fi">.*?</p>', '', html, flags=re.S))
                     visible = ' '.join(parser.parts).lower().replace('suomenkielinen versio', '')
                     for word in ['kirjoita', 'yleisyysjärjest', 'harjoitukset', 'valitse', 'oikein', 'suomenkielinen']:
                         self.assertNotIn(word, visible, (page, word))

@@ -44,6 +44,8 @@ def build():
         translated = text.translate((ROOT / name).read_text())
         if name == 'index.Rmd':
             translated = translated.replace('href="en/index.html"', 'href="../index.html"').replace('lang="en" hreflang="en"', 'lang="fi" hreflang="fi"').replace('</i> English version</a>', '</i> Suomenkielinen versio</a>')
+            language_prompt = '<p class="site-language-prompt" lang="fi">🇫🇮 Haluatko harjoitella suomeksi? <a href="../index.html" hreflang="fi">Siirry suomenkieliseen versioon.</a></p>'
+            translated = translated.replace('```{r homepage-footer,', '<br>\n\n' + language_prompt + '\n\n```{r homepage-footer,', 1)
         (STAGE / name).write_text(translated)
     (STAGE / '_bookdown.yml').write_text(config.replace('Taulukko ', 'Table '))
     shutil.copy2(ROOT / 'scripts' / 'bookdown_helpers.R', STAGE / 'scripts' / 'bookdown_helpers.R')
